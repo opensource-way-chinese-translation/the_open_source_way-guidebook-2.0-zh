@@ -6,9 +6,9 @@ Contributors
 Version 2.0, 2020-12-16: This release contains opinions
 ```
 
-## Table of Contents
+## 目录
 
-- Presenting the Open Source Way.  
+- 介绍开源方式
    - The Shape of Things (I.e., Assumptions We Are Making).  
    - Structure of This Guide.  
    - A Community of Practice Always Rebuilding Itself.  
