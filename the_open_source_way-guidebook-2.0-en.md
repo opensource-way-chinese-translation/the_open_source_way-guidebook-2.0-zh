@@ -1,4 +1,4 @@
-# THE OPEN SOURCE WAY 2.
+# THE OPEN SOURCE WAY 2.0
 
 Contributors
 
@@ -8,35 +8,35 @@ Version 2.0, 2020-12-16: This release contains opinions
 
 ## Table of Contents
 
-- Presenting the Open Source Way.  
-   - The Shape of Things (I.e., Assumptions We Are Making).  
-   - Structure of This Guide.  
-   - A Community of Practice Always Rebuilding Itself.  
-- Getting Started.  
-   - Community 101: Understanding, Joining, or Forming a New Community  
-   - New Project Checklist.  
-   - Creating an Open Source Product Strategy.  
-- Attracting Users  
-   - Communication Norms in Open Source Software Projects.  
-   - To Build Diverse Open Source Communities, Make Them Inclusive First.  
-- Guiding Participants.  
-   - Why Do People Participate in Open Source Communities?.  
-- Growing Contributors.  
-   - From Users to Contributors.  
-   - What Is a Contribution?.  
-   - Essentials of Building a Community.  
-   - Onboarding.  
-   - Creating a Culture of Mentorship  
-   - Project and Community Governance.  
-   - Community Roles.  
-   - Community Manager Self-Care  
-- Measuring Success.  
-   - Defining Healthy Communities.  
-   - Understanding Community Metrics.  
-   - Announcing Software Releases.  
-- Contributors.  
-   - Chapters writers.  
-   - Project teams.  
+- Presenting the Open Source Way
+   - The Shape of Things (I.e., Assumptions We Are Making)
+   - Structure of This Guide
+   - A Community of Practice Always Rebuilding Itself
+- Getting Started
+   - Community 101: Understanding, Joining, or Forming a New Community
+   - New Project Checklist
+   - Creating an Open Source Product Strategy
+- Attracting Users
+   - Communication Norms in Open Source Software Projects
+   - To Build Diverse Open Source Communities, Make Them Inclusive First
+- Guiding Participants
+   - Why Do People Participate in Open Source Communities?
+- Growing Contributors
+   - From Users to Contributors
+   - What Is a Contribution?
+   - Essentials of Building a Community
+   - Onboarding
+   - Creating a Culture of Mentorship
+   - Project and Community Governance
+   - Community Roles
+   - Community Manager Self-Care
+- Measuring Success
+   - Defining Healthy Communities
+   - Understanding Community Metrics
+   - Announcing Software Releases
+- Contributors
+   - Chapters writers
+   - Project teams
 
 
 This guidebook is available in HTML single page and PDF.
@@ -45,7 +45,7 @@ Bugs (mistakes, comments, etc.) with this release may be filed as an issue in ou
 You are also welcome to bring it as a discussion to our forum/mailing list.
 
 
-**Presenting the Open Source Way**
+## Presenting the Open Source Way
 
 An English idiom says, "There is a method to my madness."[^1 ] Most of the time, the things we do
 make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for
@@ -77,9 +77,7 @@ manage an open source software community.
 These voices are all part of this community of practice around open source software community
 management.
 
-**The Shape of Things (I.e., Assumptions We Are**
-
-**Making)**
+### The Shape of Things (I.e., Assumptions We Are Making)
 
 When you look at this guide’s table of contents, notice the organizational flow: from user to
 participant to contributor. This arrangement specifically tracks our view of how a community
@@ -163,7 +161,7 @@ Our best way of more-deeply conveying all this information is with stories. Asid
 naturally arise in the body of the chapter, there are other areas in the guidebook and in The Open
 Source Way community to gather all these stories of why.
 
-**Structure of This Guide**
+### Structure of This Guide
 
 Each section of this guide consists of one or more chapters.
 
@@ -195,7 +193,7 @@ through the interview effort. Stories not interspersed into chapters will be col
 the guide (for your endless uses).
 
 
-**A Community of Practice Always Rebuilding Itself**
+### A Community of Practice Always Rebuilding Itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and
 examples that this community is gathering, cultivating, and maintaining.
@@ -211,7 +209,7 @@ wherever you go.
 [ 1 ] From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"
 
 
-**Getting Started**
+## Getting Started
 
 Wherever you are in your journey as an open source practitioner, it is always useful to understand
 and pay attention to the basics. These basics include some of the types of _common knowledge_ that
@@ -227,15 +225,14 @@ This section contains chapters that:
 This section is useful for you if:
 
 - You are unsure where to start.
+- You are unsure where to start.
 - You want to read an overview of the steps of starting a new open source project.
 - You want to see what steps to take for growing strong community.
 - You are looking for the definition or more meaning about a term or word you encounter in this
     guidebook or in the open source world in general.
 - You like to read things from the beginning.
 
-**Community 101: Understanding, Joining, or Forming a**
-
-**New Community**
+### Community 101: Understanding, Joining, or Forming a New Community
 
 **Introduction**
 
@@ -643,7 +640,7 @@ This chapter covered the basics of what an open source community is and why diff
 people and organizations participate in them. Then it discussed making the decision to start a new
 open source community, and finished with the process for setting your new project’s goals.
 
-**New Project Checklist**
+### New Project Checklist
 
 This is a relatively simple checklist for you to consider when starting a new open source project,
 especially where the project may be starting small but wants room to grow. By _simple_ we mean: this
@@ -729,7 +726,8 @@ These items may be ignored if donating project assets to a foundation
 ☐ D&I plan
 ☐ Community health and metrics vision/plan
 ```
-**Creating an Open Source Product Strategy**
+
+### Creating an Open Source Product Strategy
 
 "Should we open source this project?"
 
@@ -843,7 +841,7 @@ necessary. Do all of this well, and you can turn everyone involved into an advoc
 source project.
 
 
-**Attracting Users**
+## Attracting Users
 
 This section gives important, highly useful, and timely advice on some of the most important parts
 of what makes an open source software project successful. We put them in this section with the goal
@@ -902,9 +900,7 @@ This section is useful for you if:
 - You are not sure about this "diversity" thing and why it matters for open source software.
 - You read the chapter before this one and you like to read a book from start to finish.
 
-**Communication Norms in Open Source Software**
-
-**Projects**
+### Communication Norms in Open Source Software Projects
 
 **Introduction**
 
@@ -918,9 +914,7 @@ ever-changing tooling and communication practices in open source projects may pr
 challenges for the outside observer—particularly academic researchers—along with
 recommendations for mitigating those challenges in a way that benefits all project participants.
 
-**The evolution of communication platforms in free and open source**
-
-**software projects**
+**The evolution of communication platforms in free and open source software projects**
 
 As the number of free and open source software projects has increased over time, the
 communication tools projects use—both to connect with their users and to coordinate their
@@ -1011,7 +1005,7 @@ If your project observes certain coding conventions, be sure to include those co
 developer documentation. Having a patch rejected by a maintainer because you haven’t indented
 code a certain way can be rather demotivating. Users, however, likely won’t need these details.
 
-### TIP
+**TIP**
 
 ```
 Develop a style guide for your project and make sure it is easy to find in your
@@ -1100,7 +1094,7 @@ Clearly pointing to these resources for newcomers on the project website helps t
 other communication channels—like the forums and real-time chat rooms—free from frequently
 repeated inquiries about how to get started.
 
-### TIP
+**TIP**
 
 ```
 In your project’s "getting started" guide for new users and participants, include any
@@ -1421,7 +1415,7 @@ Preserving the knowledge about decisions in an easy-to-access way:
 - Ensures that critical details on how and why decisions were made are always available even as
     project membership changes.
 
-### TIP
+**TIP**
 
 ```
 If your project carries on most of its development discussions in the issue tracker,
@@ -1469,7 +1463,7 @@ understanding what someone is saying or asking for, ask clarifying questions to 
 will be happy to help them. Don’t simply ignore someone or tell them they are not welcome in the
 project due to limited proficiency in written English.
 
-### TIP
+**TIP**
 
 ```
 People who are not native speakers of English often begin their communication with
@@ -1713,9 +1707,7 @@ simply acting with graciousness to other people is the most important step one c
 communicate well. Remember there is a human being reading what you have written, and
 remember to treat them with the same respect you want for yourself.
 
-**To Build Diverse Open Source Communities, Make**
-
-**Them Inclusive First**
+### To Build Diverse Open Source Communities, Make Them Inclusive First
 
 **Introduction**
 
@@ -2320,7 +2312,7 @@ accessed 24 June 2020 12:52 CET.
 [ 8 ] _https://www.dreamwidth.org/legal/diversity_ accessed 2 July 2020 13:37 CET (and how leet it is :)
 
 
-**Guiding Participants**
+## Guiding Participants
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to
 describe. The line separating "I’m just a user! Don’t talk to me about anything more" and "How can I
@@ -2357,9 +2349,7 @@ This section is useful for you if:
 - You have reached the middle of this guidebook by starting at the beginning, and are working
     your way toward the end.
 
-**Why Do People Participate in Open Source**
-
-**Communities?**
+### Why Do People Participate in Open Source Communities?
 
 **Introduction**
 
@@ -2497,7 +2487,7 @@ own specific needs merit. That may be a perfectly fine outcome, but it’s not a
 long-term maintainer.
 
 
-**Growing Contributors**
+## Growing Contributors
 
 This is the longest and most thorough section of the guidebook because the challenges of creating a
 community around an open source software project are complex, interesting, difficult, sticky, and
@@ -2537,8 +2527,7 @@ This section is useful for you if:
 - You’ve been waiting all guidebook to get to this section, not wanting to skip ahead, but savoring
     each page.
 
-**From Users to Contributors**
-
+### From Users to Contributors
 
 **Introduction**
 
@@ -2811,7 +2800,7 @@ peers, and to feel comfortable discussing features and patches on their merits.
 When you get to that point, you have won the battle. Developers in your team will see other
 developers working on the project as peers, colleagues, and even friends.
 
-**What Is a Contribution?**
+### What Is a Contribution?
 
 There is a common misunderstanding that only code and possibly documentation are a "true"
 contribution to an open source project. This terrible idea has a name that deserves to stay a part of
@@ -2877,7 +2866,7 @@ of community management, you will have to be aware of the many ways people contr
 project. Then you can thank them for their contribution, connecting their action from the
 individual back to the whole and the greater effort.
 
-**Essentials of Building a Community**
+### Essentials of Building a Community
 
 Free and open-source projects are among the most successful ones, and can be uniquely fulfilling
 for participants. Because these projects rely on healthy communities to get things done, they must
@@ -3203,7 +3192,7 @@ events." (From the web site.)
     brilliant—better at solving problems, fostering innovation, coming to wise decisions, even
     predicting the future."
 
-**Onboarding**
+### Onboarding
 
 **Introduction**
 
@@ -3440,7 +3429,7 @@ securing a venue, advertising, registration, and more.
 3. GitLab Merge Request Coach
 
 
-**Creating a Culture of Mentorship**
+### Creating a Culture of Mentorship
 
 **Introduction**
 
@@ -3831,7 +3820,7 @@ and how it helps you and others. Then it described why and how to make a mentori
 your community. Finally, the chapter concludes with why and how to mentor a new community
 manager who is taking a role you already are familiar with.
 
-**Project and Community Governance**
+### Project and Community Governance
 
 **Introduction**
 
@@ -4753,7 +4742,7 @@ elected body, choose the simplest ways to define membership in the body being re
 choose the simplest voting and counting system possible.
 
 
-**Community Roles**
+### Community Roles
 
 The roles one takes in an open source community are defined around the ways a role participates,
 collaborates, and contributes to the community and the various community outputs. It is a common
@@ -5100,7 +5089,7 @@ This chapter presented a list of some examples of roles that people can fill in 
 This list is not comprehensive, but for the roles listed gives an idea of what they do and why people
 fill them.
 
-**Community Manager Self-Care**
+### Community Manager Self-Care
 
 **Disclaimer**
 
@@ -6094,7 +6083,7 @@ population: the HUNT study, a cross‐sectional survey
 [ 36 ] Chartered Management Institute How to Talk About Depression at Work
 
 
-**Measuring Success**
+## Measuring Success
 
 In the days before open source, measuring the success of a software effort was often defined in
 strictly financial terms. How many boxes—yes, boxes—of software did a company sell? That
@@ -6141,8 +6130,7 @@ This section is useful for you if:
 - You need more contributors in your project.
 - You have read this far, why stop now?
 
-
-**Defining Healthy Communities**
+### Defining Healthy Communities
 
 **Introduction**
 
@@ -6870,7 +6858,8 @@ As part of community-care, this may provide strategies for managing self-care. E
 with appreciation, joy, and acceptance is an antidote to feelings of not being enough, low
 motivation, and feeling apart—even all the way to feelings of guilt and shame.
 ```
-**Understanding Community Metrics**
+
+### Understanding Community Metrics
 
 **Introduction: What’s a "healthy" open source community?**
 
@@ -7274,7 +7263,7 @@ of metrics, it is helpful to understand the context or even motivation behind th
     what is happening in the community and encourage community members to point us to what
     we are not able to see in our metrics.
 
-**Announcing Software Releases**
+### Announcing Software Releases
 
 **Introduction**
 
@@ -7449,10 +7438,9 @@ Project X is [a very detailed description of what the project is and what
 it can do].
 ```
 
-**Contributors**
+## Contributors
 
-**Chapters writers**
-
+### Chapters writers
 - Presenting The Open Source Way
     ◦ Author(s): Karsten Wade
 - Community 101: Understanding, Joining, or Forming a New Community
@@ -7484,8 +7472,6 @@ it can do].
 - Project and Community Governance
     ◦ Author(s): Dave Neary, Josh Berkus, Bryan Behrenshausen
     ◦ Editor(s)/Reviewer(s): Bryan Behrenshausen (lead), Editorial team
-
-
 - Community Roles
     ◦ Author(s): Andy Oram, Karsten Wade
 - Community Manager Self-Care
@@ -7500,8 +7486,7 @@ it can do].
 - Announcing Software Releases
     ◦ Author(s): Brian Proffitt
 
-**Project teams**
-
+### Project teams
 - Editorial team:
     ◦ Brian Proffitt (lead)
     ◦ Shaun McCance (lead writer)
