@@ -1,31 +1,16 @@
 ## 开源之路的呈现
 
-An English idiom says, "There is a method to my madness."[^1 ] Most of the time, the things we do
-make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for
-those inside that messiness—inside that whirlwind of activity—there’s a certain regularity, a
-certain predictability, and a certain motive. A method.
+有一句英语古语说道：“虽然我的行为看上去难以理喻，但我这样做是有原因的。（译者注：原文为 There is a method to my madness.）”[^1] 在大多数时候，我们所做的事情在外界看来完全没有意义。如果断章取义来讲，它们看起来像是纯粹的疯狂。但对于那些身处混乱中的，在活动旋风中的人来说，有一定的规律性、一定的可预测性和确定的动机。一种方法。
 
-A method is a _way of doing something_ , a particular manner or style of practice. The practice of open
-source community management can seem like its own form of incomprehensible madness,
-especially to someone who is unfamiliar with how open source software gets made, or those who
-find themselves staring down the prospect of having to coordinate others to join in making it. What
-this guide hopes to provide is some insight into an ever-evolving methodology, a form of practice.
-At its core is a simple question: What are your preferences for practicing the open source way?
+方法是 _做某事的方式_，一种特定的实践方式或风格。开源社区管理的实践看起来就像它自发形成的难以理解的疯狂。特别是对于那些不熟悉开源软件如何被开发出来的人，或者那些发现自己正面临不得不协调他人加入开发过程的前景的人。本指南希望提供的是对一种不断发展的方法论，一种实践形式的一些见解。其核心是一个简单的问题。你对开源方式的实践有什么偏好？
 
-But beyond that, this work is really digging into the question of _why_ someone might do the work
-this way. Why use this or that method to organize the madness?
+但除此之外，这项工作实际上是在挖掘一个问题：_为什么_有人会以这种方式工作？为什么要用这种或那种方法来组织疯狂？
 
-So from this introduction you should take two important points:
+因此，从这个介绍中，你应该得到两个重要的观点：
 
-1. There is a _what_ , a _how_ , and a _why_ to the practice of successfully and sustainably creating and
-    maintaining open source software.
-2. This guide distills opinions from a sizeable group of open source practitioners, the kind of
-    people always having to answer the question of, "Why do we do this open source thing the way
-    we do it?"
+1. 在成功地且可持续地创建和维护开源软件的实践中，存在一个 _什么_、_如何_ 和 _为什么_。
+2. 这本指南综合了大量开源从业人员的意见，这些人总是要回答这样的问题：“为什么我们要以这种方式做开源的事情？”
 
-In particular, this guide is a living document that endeavors to gather and spread a diverse group of
-voices who are similarly (and somewhat-opinionatedly) collecting the best ways to create and
-manage an open source software community.
+特别地，本指南是一个活着的文档，它努力收集和传播不同的声音，这些声音同样（而且有点偏执地）收集创建和管理一个开源软件社区的最佳方式。
 
-These voices are all part of this community of practice around open source software community
-management.
+这些声音都是围绕开源软件社区管理的这个实践社区的一部分。
