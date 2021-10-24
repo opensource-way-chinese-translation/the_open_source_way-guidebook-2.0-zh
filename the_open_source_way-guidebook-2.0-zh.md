@@ -211,7 +211,7 @@ wherever you go.
 [ 1 ] From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"
 
 
-**Getting Started**
+**入门**
 
 Wherever you are in your journey as an open source practitioner, it is always useful to understand
 and pay attention to the basics. These basics include some of the types of _common knowledge_ that
@@ -233,7 +233,7 @@ This section is useful for you if:
     guidebook or in the open source world in general.
 - You like to read things from the beginning.
 
-**Community 101: Understanding, Joining, or Forming a**
+**101社区: 了解, 加入, 或构成一个新社区 a**
 
 **New Community**
 
