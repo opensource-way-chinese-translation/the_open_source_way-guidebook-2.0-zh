@@ -1,4 +1,4 @@
-## Presenting the Open Source Way
+## 开源之路的呈现
 
 An English idiom says, "There is a method to my madness."[^1 ] Most of the time, the things we do
 make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for
