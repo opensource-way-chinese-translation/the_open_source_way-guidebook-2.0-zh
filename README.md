@@ -34,7 +34,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 - Cubik (Cubik65536)
 
 ## 章节
-- [ ] 开源之路的呈现  
+- [x] 开源之路的呈现  
    - [ ] The Shape of Things (I.e., Assumptions We Are Making).  
    - [ ] Structure of This Guide.  
    - [ ] A Community of Practice Always Rebuilding Itself.  
