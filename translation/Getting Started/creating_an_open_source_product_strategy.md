@@ -1,4 +1,4 @@
-### Creating an Open Source Product Strategy
+### 制定开源产品策略
 
 "Should we open source this project?"
 

@@ -41,7 +41,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 - [ ] Getting Started.  
    - [ ] Community 101: Understanding, Joining, or Forming a New Community  
    - [ ] New Project Checklist.  
-   - [ ] Creating an Open Source Product Strategy.  
+   - [ ] 制定开源产品策略
 - [ ] Attracting Users  
    - [ ] Communication Norms in Open Source Software Projects.  
    - [ ] To Build Diverse Open Source Communities, Make Them Inclusive First.  
