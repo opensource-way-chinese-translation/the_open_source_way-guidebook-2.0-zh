@@ -1,4 +1,4 @@
-### From Users to Contributors
+### 从用户到贡献者
 
 **Introduction**
 

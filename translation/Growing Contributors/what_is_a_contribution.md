@@ -1,4 +1,4 @@
-### What Is a Contribution?
+### 什么算是贡献？
 
 There is a common misunderstanding that only code and possibly documentation are a "true"
 contribution to an open source project. This terrible idea has a name that deserves to stay a part of

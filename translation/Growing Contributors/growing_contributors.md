@@ -1,4 +1,4 @@
-## Growing Contributors
+## 不断增长的贡献者
 
 This is the longest and most thorough section of the guidebook because the challenges of creating a
 community around an open source software project are complex, interesting, difficult, sticky, and
