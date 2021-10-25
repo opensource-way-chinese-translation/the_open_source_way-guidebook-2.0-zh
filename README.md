@@ -7,17 +7,19 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 **本仓库遵循原书的 CC-BY-SA 4.0 协议**
 
 ## 翻译流程
+`the_open_source_way-guidebook-2.0-en.pdf` 以及 `the_open_source_way-guidebook-2.0-en.md` 两个文件均为英文源文，两个文件用于翻译&排版参考；`the_open_source_way-guidebook-2.0-zh.md` 是本书中文译文文件，于所有翻译完成校对后进行编排编辑。
+
 对于本书翻译，请**严格**遵循下述流程
 1. 创建一个 GitHub 账号，并且 Fork 本仓库至自己的账户。
-2. `the_open_source_way-guidebook-2.0-en.pdf` 以及 `the_open_source_way-guidebook-2.0-en.md` 两个文件均为英文源文，两个文件用于翻译&排版参考，不应该被编辑。
-3. `the_open_source_way-guidebook-2.0-zh.md` 是本书中文译文，一般只在确定翻译稿之后编辑。`translation` 文件夹内使用 **`章节名称`** `->` *`子章节名称.md`* 的方式存储章节翻译，本书所有章节都已经被分开，在接取章节翻译后请直接在单独的子章节文件内进行翻译。`contributors.md` 和 `cover_and_table_of_contents` 暂时不要翻译。
-4. 确保你即将要翻译的章节没有其他人正在翻译，具体方法是：
+关于文件结构，你需要知道的是 `translation` 文件夹内的章节文件夹及待翻译文件均以 **`章节名称`** `->` *`子章节名称.md`* 的格式存放。本书各个章节都已经被分开存放，接取章节翻译后请在要翻译的子章节文件开始翻译。
+2. 确保你即将要翻译的章节没有其他人正在翻译，具体方法是：
    1. 查看下方 `章节` 部分，没有打勾的章节是未被翻译完成的
    2. 查看 `Pull Request` 页面，你需要保证此章节没有 Pull Request 被打开（或处于 Draft 状态）
-5. 接下来，确认接取某章的翻译，在你 Fork 到你自己的用户下的仓库中，将对应章节的标题翻译，然后提出 Pull Request，并将其转换为 Draft，确保其他人知道你接取了本章节的翻译。Pull Request 标题必须为：`Translation: xxx`，`xxx` 替换为子章节的标题（也是文件的名称）。
-6. 进行翻译，在翻译完成后，讲 `README.md` 对应章节前面的 `[ ]` 换成 `[x]` 确认本章已经翻译完成，然后将 Pull Reqeust 从 Draft 转换成 Ready to review，然后在 `Reviewers` 处添加校对人员
-7. 在校对人员确认有问题的情况下进行更改，有需要的话进行讨论，最后将 Pull Request 合并入主仓库。
-8. 本章翻译流程结束
+暂时不要翻译`contributors.md` 和 `cover_and_table_of_contents`。
+1. 接下来，确认接取某章的翻译，在 Fork 此Repository到你自己的仓库中后，将对应章节的标题翻译，然后向此Repository用 Draft 的形式提出 Pull Request，以确保其他人知道你接取了本章节的翻译。Pull Request 标题必须为：`Translation: xxx`，`xxx` 替换为子章节的标题（也是待翻译文件的名称）。
+2. 进行翻译，在翻译完成后，将 `README.md` 对应章节前面的 `[ ]` 换成 `[x]` 代表确认本章已经翻译完成，然后将 Pull Reqeust 从 Draft 形式转换成 Ready to review，然后在 `Reviewers` 处添加校对人员
+3. 在校对人员确认有问题的情况下进行更改，有需要的话进行讨论，最后校对人员将 Pull Request 合并入主仓库。
+4. 本章翻译流程结束。
 
 提交 Pull Request 的时候注意以下几点：
 - 如果 Pull Request 中出现未完成的内容（不管是否为本PR章节，当然多个章节在一起的这种情况早应避免），那么 Reviewer 可以以 “未完成”（`incomplete`）为理由关闭 Pull Request（如果在 Draft 状态下则不做处理）
