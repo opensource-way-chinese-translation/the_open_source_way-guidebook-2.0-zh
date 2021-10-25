@@ -1,4 +1,4 @@
-### Essentials of Building a Community
+### 建立一个社区的要素
 
 Free and open-source projects are among the most successful ones, and can be uniquely fulfilling
 for participants. Because these projects rely on healthy communities to get things done, they must

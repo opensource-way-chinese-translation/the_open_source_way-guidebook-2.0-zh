@@ -1,4 +1,4 @@
-### Community Roles
+### 在社区中的角色
 
 The roles one takes in an open source community are defined around the ways a role participates,
 collaborates, and contributes to the community and the various community outputs. It is a common

@@ -1,4 +1,4 @@
-### Community Manager Self-Care
+### 社区管理者的自我护理
 
 **Disclaimer**
 
