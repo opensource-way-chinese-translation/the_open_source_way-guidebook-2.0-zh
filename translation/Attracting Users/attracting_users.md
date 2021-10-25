@@ -1,4 +1,4 @@
-## Attracting Users
+## 吸引用户
 
 This section gives important, highly useful, and timely advice on some of the most important parts
 of what makes an open source software project successful. We put them in this section with the goal
