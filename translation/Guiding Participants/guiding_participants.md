@@ -1,4 +1,4 @@
-## Guiding Participants
+## 领导参与者们
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to
 describe. The line separating "I’m just a user! Don’t talk to me about anything more" and "How can I

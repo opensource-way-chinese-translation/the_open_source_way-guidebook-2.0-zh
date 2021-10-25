@@ -1,4 +1,4 @@
-### Why Do People Participate in Open Source Communities?
+### 为什么人们要参与开源社区?
 
 **Introduction**
 
