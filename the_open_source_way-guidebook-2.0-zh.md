@@ -209,28 +209,40 @@ wherever you go.
 [ 1 ] From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"
 
 
-## Getting Started
+**入门**
 
 Wherever you are in your journey as an open source practitioner, it is always useful to understand
 and pay attention to the basics. These basics include some of the types of _common knowledge_ that
 "everyone knows in the community", yet no one is sure how they learned it, and it’s not always
 written down. The chapters in this section are good places to start for practioners of all levels.
+无论你在哪里做开源从业者，理解和关注一些基础知识总是很有用的。这些基础知识里有些是属于“社区里人人都知道”的类型的，然而
+没有人知道他们是如何学会的，也几乎没有人写下来。本节中的章节便是各级从业者的好起点
 
 This section contains chapters that:
+本节包含以下章节：
 
 - Introduce some core concepts around open source communities.
+- 围绕开源社区介绍一些核心概念。
 - Outline steps you might take in starting an open source project.
+- 概述你在启动开源项目时通常要采取的步骤。
 - Define key terms and words you will encounter throughout this guidebook.
+- 定义贯穿本指南的关键专业术语和词汇。
 
 This section is useful for you if:
+本节对你很有用，如果你需要：
 
 - You are unsure where to start.
-- You are unsure where to start.
+- 你不确定该从哪里开始。
 - You want to read an overview of the steps of starting a new open source project.
+- 你想阅读启动新开源项目步骤的概述。
 - You want to see what steps to take for growing strong community.
+- 你想了解为发展一个强大的社区应采取哪些措施。
 - You are looking for the definition or more meaning about a term or word you encounter in this
     guidebook or in the open source world in general.
+- 你正在寻找本手册中遇到的术语或单词的定义或更多含义，
+    指南或是开源社区中的常识
 - You like to read things from the beginning.
+- 你喜欢从头开始阅读
 
 ### Community 101: Understanding, Joining, or Forming a New Community
 
