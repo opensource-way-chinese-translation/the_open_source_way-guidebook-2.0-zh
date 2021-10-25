@@ -1,136 +1,61 @@
 ### 为什么人们要参与开源社区?
 
-**Introduction**
+**介绍**
 
-Why do people participate in open source communities? What do they get out of it? Are they
+为什么人们要参与开源社区？他们是从中得到了什么吗？
 
+是专注于自己的需求，还是主要为了其他人？
 
-focused on their own needs, or are they mostly thinking about others?
+考虑到人们的参与，这个问题可能会有不同的解答
 
-Given that people are involved, the answer—as you might guess—is complicated and varied.
+想想我们在开源社区中看到的行为，很快就会发现这里不是只有某个单一的动力在起作用。毕竟，在大多数大型开源项目中，我们看到很多专业贡献者都把它当作他们日常工作的一部分。不过这并不意味着他们不在乎有偿以外的开源。但这确实表明，与维护者在空闲时间为自己的兴趣项目工作不同，维护者参与的原因也不同。此外，我们看到贡献者专注于解决一些有趣的技术问题，而其他人则明确地试图带来社会效益。
 
-One need only consider the behaviors we see in open source communities to very quickly intuit
-that there’s no single force at work here. After all, we see plenty of contributors on most big open
-source projects who are doing so at part of their day job. That doesn’t mean they don’t care about
-open source beyond a paycheck. But it does suggest different reasons for participation than the
-contributor working nights and weekends on their own passion project. Furthermore, we see
-contributors who are focused on solving some interesting technical problems while others are
-explicitly trying to bring about a societal benefit.
+但这并不意味着我们不能找出一些共同的模式。这里不仅有专门针对开源贡献的学术研究，还有大量关于动机的心理学文献。因此，动机是我们将在本章中用来研究贡献者为什么参与开源的透镜。
 
-But that doesn’t mean we can’t figure out some common patterns. Not only has there been
-academic research into open source contributions specifically, but there’s a whole body of
-psychology literature dealing with motivation. As a result, motivation is the lens we’ll use in this
-chapter to examine the question of why contributors participate in open source.
+**外在动机**
 
-**Extrinsic motivation**
+这种激励是“让我看看有多少钱！这样的。外在动机并不是那么简单，但在任何时代和地点，任何形式的报酬都是让人们做某事的必经之路。无论是积累财富还是为自己提供衣食住行等基本必需品。你做你本来不会费心去做的工作来换取有价值的东西的想法是深刻的-植根于大多数世界上的社会。
 
-We could say that this type of motivator is about "Show me the money!" and leave it at that.
-Extrinsic motivation isn’t quite that simple, but payment—in whatever form common during a
-given era and place—has historically been the go-to way to get people to do something. Whether to
-accumulate riches or provide themselves with basic necessities such as food and shelter. The idea
-that you do work you otherwise wouldn’t bother with in exchange for something of value is deep-
-rooted in most human societies.
+无论外在动机的存在在普通人看来多么明显和常见，但直到20世纪40年代行为主义者克拉克·赫尔（Clark Hull），后来与肯尼斯·斯彭斯（Kenneth Spence）合作，提出了欲望减退学说的想法后，外在动机才真正成为正式研究的领域。该理论侧重于减少饥饿和口渴等主要驱动力。就像如果你饿了，你就会吃饭。如果你渴了，你就会喝水。欲望减退学说之所以过时了，部分原因是它没有把重点放在可以用来减退欲望的钱之类的东西上，而只是以次要的方式表达人类的欲望。不管怎么样，我们在马斯洛的需求层次等熟悉的概念中看到了驱动力降低理论的回声。
 
-However obvious the existence of extrinsic motivation may seem to the average person, it wasn’t
-really a field of formal study until the 1940s when behaviorist Clark Hull, later working with
-Kenneth Spence, came up with the idea of drive reduction theory. This theory focused on reducing
-primary drives like hunger and thirst. If you’re hungry you eat. If you’re thirsty you drink. Drive
-reduction theory fell out of fashion, in part because it _didn’t_ focus on things—like money—that
-could be used to reduce drives but only in a secondary way. However, we see echoes of drive
-reduction theory in familiar concepts like Maslow’s hierarchy of needs.
+回到让贡献者从事开源工作的原因上来，钱当然是一个很大的激励因素。甚至可以追溯到二十年前，许多大型开源项目都有大量的收费贡献者，他们的公司向他们支付报酬，让他们从事开源工作。
 
-Coming back to what makes contributors work on open source, money can, of course, be a big
-incentive. Even going back twenty years or so, many major open source projects had a significant
-number of contributors who were paid by their companies to work on open source.
+职业发展与薪酬是相辅相成的。但在这一点上，开源软件与专有软件的开发有什么不同吗？可能是。多位研究人员已经发现了经验性的证据来支持这样的观点：至少有一种感知上的优势，支持开发公开的代码，因此可供他人查看和使用的职业优势的说法。
 
-Career advancement goes hand in hand with pay. But is open source software any different from
-proprietary software development in this regard? It may be. Multiple researchers have found
-empirical evidence to support the idea there’s at least a perceived advantage that supports the
-argument there are career advantages to developing code that’s in the open and therefore available
-for others to look at and work with.
+最近，有大量的实证证据支持这样的观点：开发公开的代码和贡献内容会带来明显的职业优势，其他人可以查看和使用这些内容。事实上，“GitHub作为简历”已经成为一个常见的主题（尽管有时是不恰当的应用）。
 
-More recently, there’s been significant empirical evidence to support the argument there are
-perceived career advantages to developing code and contributing content that’s in the open, and
-therefore available for others to look at and work with. Indeed, the idea of "GitHub-as-resume" has
-become a common (if sometimes inappropriately applied) theme.
+**内在动机**
 
+20世纪70年代开始的研究开始关注内在动机，除了活动本身，内在动机不需要明显的奖励。由Edward Deci和Richard Ryan提出的自我决定理论，从比较内在动机和外在动机的研究，以及对内在动机在行为中所起主导作用的日益深入的理解中发展而来。
 
-**Intrinsic motivation**
+关于开源软件，这里首先想到的可能是意识形态或利他动机。毕竟，至少就开源软件而言，从一开始就有意识形态和政治因素（译者注：自由主义和理想主义），如果让用户访问源代码，也有实际好处。
 
-Research beginning in the 1970s started to focus on intrinsic motivations, which do not require an
-apparent reward other than the activity itself. Self-Determination Theory, developed by Edward
-Deci and Richard Ryan, would later evolve from studies comparing intrinsic and extrinsic motives,
-and from a growing understanding of the dominant role intrinsic motivations can play in behavior.
+调查中的一些证据表明，这些因素在一定程度上可以激励贡献者。然而，研究结果却有点复杂。一些撰稿人在调查中表示，他们参与的部分原因是出于意识形态或利他主义。这种影响在作为爱好从事开源的贡献者中最为明显。但利他主义也会影响到专业贡献者，对于那些对自己的薪酬和职业生涯的其他方面已经感到满意的专业贡献者来说，这是最常见的情况。
 
-With respect to open source software, it’s perhaps the ideological or altruistic motivations that first
-come to mind here. After all, in the case of free software at least, there was always an ideological
-and political element from the beginning even if there were also practical benefits for a user to
-have access to source code.
+利他主义的一个变种是亲属友好。它与礼物经济的概念有关，但它是家庭（亲属）群体所特有的，他们不期望有一个计算好的交换条件。(换句话说，家庭成员之间互相帮助，但他们通常不会对谁最近没有发挥自己的作用进行统计，至少是系统的统计。) 它与利他主义不同，因为它只限于一个人所属的团体，如一个开放源码社区。这里的研究也是好坏参半。研究已确定，亲属友好关系程度和各种努力的衡量标准之间存在着正相关关系，例如每周工作的小时数--但这种相关性往往相当弱。
 
-There’s some evidence from surveys that contributors can be somewhat motivated by these factors.
-However, the research results are mixed. Some contributors say on surveys that they’re
-participating, in part, for ideological or altruistic reasons. But the effect is most pronounced among
-contributors doing open source as a hobby. And while altruism certainly can influence professional
-contributors, this mostly seems to be the case among contributors who are _also_ satisfied with their
-pay and other aspects of their career.
+最后还有一些有趣的，这对任何对开源开发人员、设计师和内容创建者打交道的人来说都不会感到惊讶。他们中的大多数人都喜欢从事开源项目。2007年的一项大型研究（Luthiger和Jungwirth）确定，为了乐趣而开发占到项目投入（小时）的28%。当为了乐趣而开发和利他主义是一种爱好时，或者你在其他方面对职业感到满意时，你会更容易被它所激励。
 
-A variant of altruism is kinship amity. It’s related to the concept of gift economies but is specific to
-family (kin) groups which don’t expect a calculated _quid pro quo_. (In other words, family members
-do things for each other but they don’t typically keep a running tally, at least a systematic one, of
-who hasn’t been pulling their weight recently.) It’s different from altruism in that it is restricted to
-the group to which one belongs, such as an open source community. Here again the research is
-mixed. Studies have generally found a positive relationship between identified kinship amity and
-various measurements of effort, such as number of hours worked per week—but the correlation is
-often fairly weak.
+**内在外在动机**
 
-Finally, there’s just fun. This should come as no surprise to anyone who hangs around open source
-developers, designers, and content creators. Most of them _like_ working on open source projects.
-One large study from 2007 (Luthiger and Jungwirth) determined that fun accounted for 28 percent
-of the effort (hours) dedicated to projects. Though, again, it’s easier to feel motivated by fun and
-altruism when it’s either a hobby or you’re otherwise satisfied professionally.
+今天的心理学文献也包含了内化的外在动机的观点。这些都是外在的动机，比如获得技能以增加职业机会，但它们已经被内在化，因此动机来自内部，而不是直接来自其他人的奖励。因为随着时间的推移，保持对新技术的了解是有回报的，而获得同行认可的直接回报是加薪。在社区内部人士和潜在雇主中，在开源工作中获得良好的同行声誉是这种动机如何在开源开发中发挥作用的一个很好的例子。各种各样的调查都支持这样一种观点，即同龄人的声誉是参与的驱动力。
 
-**Internalized extrinsic motivation**
+学习也经常被提到是参与开源项目的一大好处。学习可能本质上是令人满意的，它也是职业发展的重要组成部分。然而在这里很难区分是内在和外在的。是为了学习而去学习吗？是学习工作所需的特定技能吗？
 
-Today’s psychology literature also includes the idea of internalized extrinsic motivations. These are
-extrinsic motivations such as gaining skills to enhance career opportunities—but they’ve been
-internalized so that the motivation comes from within rather than coming as a direct result of a
-carrot (reward) being dangled by someone else. It’s the difference between learning a new
-language because you know keeping current on new tech pays off over time versus receiving a
-salary increase as a direct payoff for earning a certification. Gaining a good peer reputation, among
-community insiders and potential employers, for work in open source is one good example of how
-this type of motivation can play out in open source development. A variety of surveys have
-supported the idea that peer reputation is a driver for participation.
+这一类别中的最后一个激励因素是研究人员称之为“自己的使用价值”，但更容易被描述为“scratch your own itch”。在这个过程中，为自己开发你想要的东西，并为他人创造一些东西。某些事情最终是对你自己的一种外在奖励，但没有人强迫你去做。
 
-Learning is also frequently mentioned as a big benefit to participating in open source projects.
-Learning may be intrinsically satisfying but it can also be an important ingredient of career
-advancement. It can be hard to tease apart the intrinsic from the extrinsic here though. Is it
+**结论**
 
+如前所述，许多事情的动机是多方面的，对开源软件的贡献也不例外。然而，这里有三个你可能会觉得有用的点
 
-learning for learning’s sake? Is it learning for specific skills needed on the job?
+**不要期望能用非外在的激励因素承担太多的负担** 
+许多人确实出于理想主义或利他主义的原因对开源项目做出了贡献。但这些通常不是唯一的动力，甚至可能不是重要的动力。特别是在有商业支持的项目中，薪酬和其他专业工作福利非常重要。
 
-A final motivator in this category is what researchers call "own-use value" but is more recognizably
-described as something like "scratch your own itch." Develop something that you want for yourself
-and create something for others in the process. That something is ultimately an external reward to
-yourself but no one is forcing you to do it.
+**充分的非外在激励因素，如学习和同伴认可**
 
-**Conclusion**
+虽然不能取代更直接的好处，但获得同行认可和在新技术领域工作的机会是也是一种激励因素。组织应该考虑到同行的认可，并明确地鼓励学习，以便最好地利用这些激励因素。
 
-As noted earlier, motivations for many things are multi-faceted and contributing to open source
-software is no exception. However, here are three takeaways that you may find useful.
+**当激励机制过度轮换时可能适得其反** 
 
-**Don’t expect non-extrinsic motivators to carry too much of the load.** Many do contribute to
-open source projects for idealistic or altruistic reasons. But those are usually not the sole
-motivators and may not even be important ones. Especially in the case of projects that have
-commercial backing, pay, and other professional working benefits matter a great deal.
-
-**Ampily non-extrinsic motivators such as learning and peer recognition.** While not
-replacements for more direct benefits, the opportunity to be recognized by peers and to work in
-new technology areas are motivators. Organizations should consider peer recognition programs
-and explicitly encourage learning in order to make the best use of these motivational factors.
-
-**Motivators can be counter-productive when over-rotated.** Precisely because motivations are
-multi-faceted, don’t place too big a bet on any single one. We already discussed the limitations of
-ideology and altruism. However, also consider something like "scratch your own itch" for example.
-If that’s the _only_ reason someone contributes, they’ll tend to wander in and out of a project as their
-own specific needs merit. That may be a perfectly fine outcome, but it’s not a path to developing a
-long-term maintainer.
+正因为动机是来自多方面的，所以不要在任何一个动机上下太大的赌注。我们已经讨论了意识形态和利他主义的局限性。不过，也可以考虑一些“自挠其痒（scratch your own itch）”之类的东西。
+如果这是一个人贡献的唯一原因，他们会因为自己的具体需要而在项目中留下。这可能是一个完美的结果，但它不是一条发展长期维护者的道路。
