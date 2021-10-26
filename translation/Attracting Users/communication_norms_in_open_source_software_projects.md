@@ -1,4 +1,4 @@
-### 开源软件项目中的交流规范
+### Communication Norms in Open Source Software Projects
 
 **Introduction**
 

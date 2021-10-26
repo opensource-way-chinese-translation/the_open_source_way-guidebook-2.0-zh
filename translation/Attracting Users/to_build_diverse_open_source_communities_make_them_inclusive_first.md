@@ -1,4 +1,4 @@
-### 要构建多样化的开源社区，首先要具有包容性
+### To Build Diverse Open Source Communities, Make Them Inclusive First
 
 **Introduction**
 
