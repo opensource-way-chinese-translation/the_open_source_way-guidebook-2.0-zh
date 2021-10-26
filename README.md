@@ -17,6 +17,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 4. 确保你即将要翻译的章节**没有**其他人正在翻译，具体方法是：
    1. 查看**下方 `章节` 部分**，没有打勾的章节是未被翻译完成的
    2. 查看 `Pull Request` 页面，你需要保证此章节没有 Pull Request 被打开（或处于 Draft 状态）
+   3. 注意！一人一次只能认领两个小章节，我们希望大家的工作重点在提高质量而非数量上
 5. 接下来，确认接取某章的翻译，在你 Fork 到你自己的用户下的仓库中，将对应章节的标题翻译，然后提出 Pull Request，**并将其转换为 Draft**，确保其他人知道你接取了本章节的翻译。Pull Request 标题必须为：`Translation: xxx`，`xxx` 替换为子章节的标题（也是文件的名称）。
 6. 进行翻译，在翻译完成后，讲 `README.md` 对应章节前面的 `[ ]` 换成 `[x]` 确认本章已经翻译完成，然后将 Pull Reqeust 从 Draft 转换成 Ready to review，然后在 `Reviewers` 处添加校对人员
 7. 在校对人员确认有问题的情况下进行更改，有需要的话进行讨论，最后将 Pull Request 合并入主仓库。
