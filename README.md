@@ -24,6 +24,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 
 提交 Pull Request 的时候注意以下几点：
 - 我们的工作流程偏好一个 Pull Request **仅包含一个文件的编辑**
+（下文中，一个章节代指一个小章节，即为一个单独的 markdown 文件）
 - 如果 Pull Request 中出现未完成的内容（不管是否为本PR章节，当然多个章节在一起的这种情况早应避免），那么 Reviewer 可以以 “未完成”（`incomplete`）为理由关闭 Pull Request（如果在 Draft 状态下则不做处理）
 - 你可以同时接取多个章节，但是请把每个章节分开独立的分支，避免 Pull Request 时提交多个章节的内容。如果仓库管理和其他拥有相关权限的人发现此情况，他们有权利以 “无效”（`invalid`）为理由关闭 Pull Request
 - 如果你发现你编辑了英文源文，请及时回退，否则 Reviewer 可以以 “无效”（`invalid`）为理由关闭 Pull Request
