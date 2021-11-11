@@ -64,7 +64,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
    - [ ] Project and Community Governance.  
    - [ ] Community Roles.  
    - [ ] Community Manager Self-Care  
-- [ ] Measuring Success.  
+- [x] 如何衡量成功
    - [ ] Defining Healthy Communities.  
    - [ ] Understanding Community Metrics.  
    - [ ] Announcing Software Releases.  
