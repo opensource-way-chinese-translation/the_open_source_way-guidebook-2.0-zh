@@ -1,28 +1,21 @@
-### 宣布软件上线
+### 宣布软件发布
 
-**Introduction**
+**介绍**
 
-One of any open source project’s functions is releasing software with the goal of reaching as many
-users as possible. To help projects succeed, you’ll need to ensure that you distribute news of your
-release in a timely fashion, to the widest relevant audience, and with the right information.
+任何开源项目的功能之一就是发布软件，目标是吸引尽可能多的用户。为了帮助项目取得成功，你需要确保及时用正确的信息向最广泛的相关受众分发您的发布新闻。
 
-Following some basic guidelines for coordinating release announcements can ensure that your
-excellent work doesn’t get lost in the shuffle. Remember that these are only guides; you
-community’s practices may differ.
+遵循一些协调发布公告的基本准则可以确保您的出色工作不会在混乱中迷失。请记住，这些只是指南；你的社区的做法可能会有所不同。
 
-**General guidelines**
+**通用准则**
 
-- Do not set any release date for a Friday or significant holiday. The ideal release date for
-    maximum coverage is Tuesday.
-- If at all possible, coordinate major releases with relevant conferences and events.
-- Tailor release announcements and blogs to encourage both _use_ of the software as well as
-    _contributions_ to it.
-- Talk about how a project benefits the user; explain benefits rather than focusing on technical
-    details.
+- 不要把星期五或重要假期设置成发布日期。拥有最大覆盖率的理想发布日期是星期二。
+- 如果可能的话，协调主发布版本与相关会议和活动。
+- 定制发布公告和博客，以鼓励 _使用_ 软件以及 _贡献_ 软件。
+- 阐述一个项目将如何使用户受益；解释好处而不是专注于技术细节。
 
-**Track: Release candidate and final release for major point release X.0**
+**跟踪主要版本 X.0 的候选版本和最终版本**
 
-Follow or adapt this process for a major point release (X.0):
+遵循或调整以下过程以用于主要版本 (X.0)：
 
 1. No less than three weeks from release date:
     a.Create a collaborative document (Etherpad, Google Doc) to include highlighted features for
@@ -36,6 +29,7 @@ Follow or adapt this process for a major point release (X.0):
 
 ```
 c. Create press release and send to your organization’s media relations team for vetting.
+c. 创建新闻稿并发送给您组织的媒体关系团队进行审查。
 ```
 3. One week from release date:
     a.Schedule social media content for distribution before, during, and after release date.
@@ -160,15 +154,14 @@ description of a two or three additional features].
 [If possible, add a quote from a prominent community member or technical
 lead about the new release here.]
 ```
-**Additional Resources**
+**其他资源**
 
 - Read more about the Project X x.y release highlights [URL]
 - Get more Project X updates on Twitter [URL]
 - Read more about Project X community events [URL]
 
-**About Project X**
+**关于 Project X**
 
 ```
-Project X is [a very detailed description of what the project is and what
-it can do].
+Project X 是 [一个对项目的目的和功能的非常详细的描述].
 ```
