@@ -240,32 +240,50 @@ contributors document the project, raise awareness of and market the project, pl
 meetings and events, etc.—all extraordinarily important aspects of a project’s eventual success.
 Examples include:
 
+使用以社区为重点的途径，是为参与者提供可能不需要专门技术知识的贡献机会。这些途径的重点是帮助新的贡献者记录项目，提高对项目的认识和营销，计划社区会议和活动等--这些都是项目最终成功的极其重要的方面。例子包括：
 
 1. Documenting workflow and governance processes
+1. 记录工作流程和管理过程
 2. Onboarding and mentoring new members
+2. 对新成员进行入职培训和指导
 3. Localizing content into various languages
+3. 将内容本地化为各种语言
 4. Copywriting (for website, newsletters, blogs)
+4. 文案写作（网站、通讯、博客）
 5. Managing social media
+5. 管理社交媒体
 6. Organizing events
+6. 组织活动
 
 _Technically focused_ contributor pathways, on the other hand, are contributions requiring
 specialized knowledge of software development (often in a particular computing language). These
 pathways are focused on enchancing or refining the body of software a community maintains.
 Examples include:
+另一方面，以技术为重点的贡献者途径，是需要软件开发的专业知识（通常是特定的计算语言）的贡献。这些途径的重点是加强或完善一个社区所维护的软件体系。
+例子包括：
 
 1. Adding new features and documentation
+1. 添加新功能和文档
 2. Fixing existing bugs and triaging issues
+2. 修复现有bug和分类问题
 3. Refactoring existing work to improve it
+3. 重构现有工作以改进它
 4. Performing quality assurance
+4. 执行质量保证
 5. Improving user interface and user experience
+5. 改善用户界面和用户体验
 6. Release engineering
+6. 版本工程
 7. Creating and maintaining project roadmap
+7. 创建和维护项目逻辑图
 8. Code and user interface localization
+8. 代码和用户界面本地化
 
 When assessing your project’s contributor pathways, ask yourself: Does your project currently offer
 new (and existing) contributors opportunities to contribute rewardingly to (or even take ownership
 of ) work in each of these areas? If not, one general way to begin expanding your project is by
 making concerted efforts to formalize, refine, document, and advertise these contributor pathways.
+在评估你的项目的贡献者途径时，问问自己。你的项目目前是否为新的（和现有的）贡献者提供了机会，使他们能够对这些领域的工作做出有价值的贡献（甚至拥有所有权）？ 如果没有，开始扩大你的项目的一个一般方法是通过协同努力使这些贡献者途径正式化、细化、文件化和广告化。
 
 We call these "pathways" because they allow participants to deepen investment in the community
 _gradually_ so they don’t feel overwhelemed and can acclimate themselves to the project’s processes
@@ -275,9 +293,14 @@ Contributors following your project’s contributor pathway related to events, f
 won’t get started by taking sole responsibility for your community’s flagship annual event. But they
 might work with experienced community members on planning that event, taking charge of
 securing a venue, advertising, registration, and more.
+我们称这些为 "途径"，因为它们允许参与者逐步加深对社区的投入，这样他们就不会感到负担过重。并能在更多的参与中适应项目的流程和文化。理想的情况是，随着社区的成熟，它将会构建一些途径，逐步赋予贡献者更多的责任和权力。例如，遵循你的项目的贡献者路径的贡献者，可能不会一开始就单独负责你的社区的年度旗舰活动。但他们可能会与有经验的社区成员一起策划活动，负责确保场地、广告、注册等工作。
 
 **Resources: Onboarding examples from open source communities**
+**参考资料：来自开源社区的入职示例**
 
 1. OpenStack Upstream Institute
-2. Kubernetes Contributor Experience Special Interest Group
-3. GitLab Merge Request Coach
+1. OpenStack上游研究所 (OpenStack Upstream Institute)
+2. Kubernetes Contributor Experience Special Interest Group 
+2. Kubernetes贡献者体验特别兴趣小组 (Kubernetes Contributor Experience Special Interest Group )
+3. GitLab Merge Request Coach 
+3. GitLab合并请求Coach (GitLab Merge Request Coach)
