@@ -1,22 +1,17 @@
-## Getting Started
+## 开始
 
-Wherever you are in your journey as an open source practitioner, it is always useful to understand
-and pay attention to the basics. These basics include some of the types of _common knowledge_ that
-"everyone knows in the community", yet no one is sure how they learned it, and it’s not always
-written down. The chapters in this section are good places to start for practioners of all levels.
+无论你身处开源行业的哪个阶段，了解并关注基础知识总是会受益的。这些基础知识包括一些 _常识_，即“在社区中人人皆知”，但没有人确定他们是如何学会的，而且这些知识也并不是总是有记录的。本节中的章节是各级参与人员开始的好地方。
 
-This section contains chapters that:
+本节包含以下章节：
 
-- Introduce some core concepts around open source communities.
-- Outline steps you might take in starting an open source project.
-- Define key terms and words you will encounter throughout this guidebook.
+- 介绍一些围绕开源社区的核心概念
+- 概述你在开展一个开源项目时可能采取的步骤
+- 定义你在本指南中会遇到的关键术语和词汇
 
-This section is useful for you if:
+本节会对你适用，如果：
 
-- You are unsure where to start.
-- You are unsure where to start.
-- You want to read an overview of the steps of starting a new open source project.
-- You want to see what steps to take for growing strong community.
-- You are looking for the definition or more meaning about a term or word you encounter in this
-    guidebook or in the open source world in general.
-- You like to read things from the beginning.
+- 你不确定该从哪里开始。
+- 你想了解一下启动一个新的开源项目的步骤总览。
+- 你想知道采取什么步骤来壮大社区。
+- 你正在寻找你在本指南中或在开源世界中遇到的某个术语或词的定义或更多含义。
+- 你喜欢从头开始阅读。
