@@ -48,7 +48,6 @@ be more challenging to get started in open source communties even for experience
 **Significant variability**
 **显著可变性**
 
-
 ```
 没有哪两个开源社区是相同的。即使是经验丰富的开源贡献者，当他们加入一个新的社区时，也需要熟悉新的工具、新的流程，甚至是新的术语。根据不同的社区，像贡献、社区成员、项目、上游等这些看似简单的术语，其含义都可能略有不同，很容易给新的社区成员带来困惑。
 ```
@@ -56,19 +55,14 @@ be more challenging to get started in open source communties even for experience
 **Onboarding basics**
 **入职基础**
 
-
 当你努力使你的项目的入职过程和体验最有效时，问问自己这些问题：
 
 - 人们能为项目做出什么贡献？
 - 人们在哪里为项目做出贡献？
 - 人们如何为项目做出贡献？
 
-Answering the first question about your project’s onboarding process requires a good deal of work.
-Incoming contributors need to know what would be the most helpful contributions they could
-make. Quite a few projects have set up tagging on their source code repositories for "first-time
-contributors" or something similar, which is an excellent way to direct incoming contributors to
-solving issues and bugs while also introducing newcomers to the source material of the project.
-回答关于你的项目入职过程的第一个问题需要做大量的工作。新来的贡献者需要知道什么是他们可以做出的最有用的贡献。相当多的项目在他们的源代码库中设置了 "首次贡献者" 或类似的标签，这是引导新来的贡献者解决问题和错误的一个很好的方法，同时也向新人介绍了项目的原始资料。
+
+回答关于你的项目入职过程的第一个问题需要做大量的工作。新来的贡献者需要知道什么是他们可以做出的最有用的贡献。相当多的项目在他们的源代码库中设置了 "首次贡献者" 或类似的标签，这是引导新来的贡献者去解决问题和错误的一个很好的方法，同时也向新人介绍了项目的原始资料。
 
 The second question—regarding "where to contribute"—is one that projects don’t pose as often as
 you’d think. Project veterans might dismissively say, "what you need is on the forums" or "read the
@@ -77,7 +71,6 @@ what organization? And what about other, similarly named projects? Ensure your p
 features clear links to places where new contributors can make an impact on the project. These
 links shouldn’t be buried, either; they should be right on the home page, if possible.
 第二个问题--关于 "在哪里贡献"———— 这是一个项目里并不像你想象的那样经常提出的问题。一些项目老手可能会不屑一顾地说，"你需要的东西在论坛上"或 "如果你需要更多的细节，请去阅读wiki"。但是，在哪个具体的资源库里有这些材料？在什么组织下？还有其他类似的项目呢？确保你的项目网站有明确的链接，让新的贡献者能够对项目产生影响。这些链接也不应该被埋没；如果可能的话，它们应该就在主页上。
-
 
 Third is the question of "how to contribute." Too often, projects release their source code, even
 make it easily discoverable... and that’s it. You may have heard others refer to this approach as
