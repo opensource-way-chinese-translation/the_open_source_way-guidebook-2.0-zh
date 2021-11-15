@@ -1,46 +1,25 @@
-## Measuring Success
+## 如何衡量成功
 
-In the days before open source, measuring the success of a software effort was often defined in
-strictly financial terms. How many boxes—yes, boxes—of software did a company sell? That
-revenue was offset by the cost of support, authoring, and distribution (again, boxes), and voila! The
-profit was the measure of success.
+在开源之前，衡量一个软件工作的成功与否往往是以严格的财务术语来定义的。一个公司卖出了多少份软件──是的，多少份？这笔收入被支持、编写和分发（同样是多少份）的成本所抵消，然后就可以了。利润是衡量成功的标准。
 
-In the open source world, it doesn’t quite work like that. For one thing, while there are
-commercially successful open source projects, the success of those projects is still not strictly tied to
-just the financials. Nor is success set against the common benchmark of downloads. It is very easy
-to presume, for instance, that if a software project has millions of downloads, it is doing very well.
-But just because users are consuming the software steadily does not mean there aren’t internal
-problems in the project’s community. There could be any number of factors set to bring the project
-to a halt. Conversely, there are many very successful projects that don’t have the headlines and the
-huge popularity.
+在开放源码的世界里，情况并不完全如此。首先，虽然有一些商业上成功的开源项目，但这些项目的成功仍然不是严格地与财务状况挂钩的。成功也不是以下载量这个共同的基准来设定的。例如，我们很容易假定，如果一个软件项目有数百万的下载量，它就做得非常好。但是，仅仅因为用户在稳定地消费该软件，并不意味着该项目社区中没有内部问题。可能使项目停滞的因素依然存在。相反，有许多非常成功的项目并没有头条新闻和巨大的人气。
 
-So, if money and fame are not the success factors in open source software projects, what are?
+那么，如果金钱和名声不是开源软件项目的成功因素，什么才是呢？
 
-For open source projects, success is not just measured in terms of commercial or consumptive
-success. Free and open source projects have become much more transparently developed thanks to
-the popularity of distributed version control and collaboration tools. While these tools, such as the
-ones based on git, have certainly given contributors a big advantage in putting projects together,
-another benefit is that they also allow a much more robust and quantitative observation of how
-projects are doing.
+对于开源项目来说，成功不仅仅是用商业或消费方面的成功来衡量。由于分布式版本控制和协作工具的普及，自由和开放源码项目的发展变得更加透明。通过这些工具（比如基于git的工具）把多个项目聚集在一起，从而给贡献者带来了很大的益处；另一个好处是，它们也允许对项目的表现进行更有力的定量观察。
 
-In the past, it was difficult to see in real time if the processes of a given project were successful or
-not. You would see the output of a project’s efforts, but not the steps the process took along the way
-to get there. At least, not without a lot of effort. So establishing a project’s health and success was
-done more with subjective methods, often based on sociological and business-oriented principles
-that have become ingrained in many cultures. Now, though, you can easily dive into the data shown
-by open development, and use that data to derive quantitative information about a project’s health.
-It is these concepts that this section explores.
+在过去，我们很难实时看到一个特定项目的过程是否成功。你会看到一个项目努力的产出，但不知道这个过程在达到目的的过程中采取的步骤。至少，在没有大量努力的情况下是如此。因此，建立一个项目的健康和成功更多的是用主观的方法，通常是基于已经在许多文化中根深蒂固的社会学和商业导向原则。不过现在，你可以很容易地潜入开放开发所展示的数据，并使用这些数据来得出关于项目健康的定量信息。本章所探讨的正是这些概念。
 
-This section contains chapters that:
+本章包含以下部分：
 
-- Discuss the formation of healthy, participatory communities.
-- Examine how metrics can be applied to projects.
-- Determine which metrics will be the most useful for a project.
-- Highlight ways to increase participation in a project’s announcements.
+- 讨论健康、高参与性社区的形成.
+- 研究如何将衡量标准应用于项目
+- 确定哪些指标对该项目最有用
+- 强调提高项目公告参与度的方法
 
-This section is useful for you if:
+如果你有以下打算，本章对你会有帮助：
 
-- You want to know if your community is healthy.
-- You are seeking data that can demonstrate successes and failures.
-- You need more contributors in your project.
-- You have read this far, why stop now?
+- 你想了解你的社区是否健康
+- 你正在寻找能够证明成功和失败的数据
+- 你的项目需要更多的贡献者
+- 你都已经读到这里了，为何要止步呢？
