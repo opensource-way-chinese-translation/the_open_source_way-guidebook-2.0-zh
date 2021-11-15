@@ -5,7 +5,7 @@ participant to contributor. This arrangement specifically tracks our view of how
 comes about and grows. And it all starts with a need. If you’ve worked in open source projects and
 communities, you’ve likely seen the cycle many times. It goes something like this:
 
-当你看到本指南的目录时，应该能注意到组织的流程：从用户到参与者到参与者到贡献者。这种安排特别追踪了我们对一个社区如何产生和发展的看法。而这一切都始于一个需求。如果你在开源项目和社区工作过，你可能已经多次看到这个循环。它是这样的：
+当你看到本指南的目录时，应该能注意到一个有组织的流程：从用户到参与者，到参与者再到贡献者。这种流程特别追踪了我们对一个社区产生和发展过程的看法，而这一切都始于一个需求。如果你在开源项目和社区工作过，你可能已经多次看到这个循环。就像这些：
 
 1. 一个人或团体为了解决一个问题，创造了第一个软件迭代，为这个问题提供一个解决方案。
 2. 其他有类似需求的人开始使用它，形成一个用户群的核心。
