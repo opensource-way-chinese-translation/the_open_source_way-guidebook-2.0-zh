@@ -43,7 +43,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 ## 章节
 
 - [x] 开源之路的呈现  
-   - [ ] The Shape of Things (I.e., Assumptions We Are Making).  
+   - [x] 事物的形状（换句话说，我们所做的假设）
    - [ ] Structure of This Guide.  
    - [ ] A Community of Practice Always Rebuilding Itself.  
 - [ ] Getting Started.  
