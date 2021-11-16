@@ -99,7 +99,7 @@ making new community members feel welcome as they’re getting started.
 
 Once new community members feel oriented and comfortable enough to begin contributing to an
 open source project, their next questions will be "Where can I contribute?"
-当人们加入一个新的社区时，他们可能会发现在交流渠道（如邮件或Slack）上的讨论让人不知所措。为了减轻他们的困惑或压力，可以考虑在这些频道中为新的社区成员创造空间，让他们在开始和适应的时候使用。例如，诸如 "入门 "或 "介绍 "这样的专用频道可以成为为人们提供安全感的地方，以便新成员提问。这些频道也允许更多有经验的社区成员通过帮助回答新用户的问题，甚至只是提供鼓励来协助入职。这对使新的社区成员在开始时感到受欢迎有很大的帮助。
+当人们加入一个新的社区时，他们可能会发现在交流渠道（如邮件或Slack）上的讨论让人不知所措。为了减轻他们的困惑或压力，可以考虑在这些频道中,为新的社区成员创造空间，让他们在开始和适应的时候使用。诸如 "入门 "或 "介绍 "这样的专用频道可以成为为人们提供安全感的地方，以便新成员提问。这些频道也允许更多有经验的社区成员通过帮助回答新用户的问题，甚至只是提供鼓励来协助入职。这对使新的社区成员在开始时感到受欢迎有很大的帮助。
 
 一旦新的社区成员觉得自己有足够的能力开始为一个开源项目做出贡献，他们的下一个问题将是 "我在哪里可以做出贡献？"
 
@@ -114,13 +114,6 @@ getting started) can also be helpful. Always remember: Issues that may seem simp
 community members might not be as simple for newcomers.
 因此，为了帮助新来的人开始工作，你应该制定一份工作清单，特别是新来的社区成员可以处理的工作项目。以及社区成员可以处理的工作项目。许多社区在他们的issue（译者注：问题追踪器）中给问题贴上标签，如 "适合首次贡献者"、"好的第一个issue "或 "需要帮助"，这样新成员可以更容易地确定他们可以立即提供帮助的任务。标签的范围可以是文档错误、简单的错误修复，或其他简单的任务，这些任务将帮助新的贡献者体验早期的成功，从而建立他们的信心。在这些问题上列出一个（或几个）作为导师或教练的联系人（以备人们需要帮助时）也是有帮助的。永远记住：对有经验的社区成员来说可能很简单的问题，对他们来说可能不那么简单。
 
-Many open source communities organize events aimed at connecting their members. Whether the
-events are collocated or virtual, they provide excellent opportunities for community members to
-collaborate synchronously—and get to know each other in the process. These events could be
-summits, hackathons, user confernces, etc. At these events, consider creating special programming
-or spaces for new community members. You might organize formal orientation sessions as a "Day
-0" event if your budget allows for it, or a lunchtime session at which newcomers can meet other
-community members so they know who they can ask questions to later on.
 许多开源社区组织活动旨在联系他们的成员。无论这些活动是在同一地点还是虚拟的，它们都为社区成员提供了同步合作的绝佳机会，并在这个过程中相互了解。这些活动可以是峰会、黑客马拉松、用户会议等。在这些活动中，可以考虑为新的社区成员创造特殊的程序或空间。
 如果你的预算允许，你可以组织正式的迎新会，作为一个 "day 0" 活动，或者在午餐时间组织迎新会，让新成员认识其他社区成员，这样他们就知道以后可以向谁提问了。
 
@@ -147,7 +140,7 @@ contributors document the project, raise awareness of and market the project, pl
 meetings and events, etc.—all extraordinarily important aspects of a project’s eventual success.
 Examples include:
 
-使用以社区为重点的途径，是为参与者提供可能不需要专门技术知识的贡献机会。这些途径的重点是帮助新的贡献者记录项目，提高对项目的认识和营销，计划社区会议和活动等--这些都是项目最终成功的极其重要的方面。例子包括：
+使用以社区为重点的途径，是为了给参与者提供一些可能不需要专门技术知识的贡献机会。这些途径的重点是帮助新的贡献者熟悉项目，提高对项目的认识；营销，计划社区会议和活动等--这些都是项目最终成功的极其重要的方面。例子包括：
 
 1. 记录工作流程和管理过程
 2. 对新成员进行入职培训和指导
@@ -156,11 +149,8 @@ Examples include:
 5. 管理社交媒体
 6. 组织活动
 
-_Technically focused_ contributor pathways, on the other hand, are contributions requiring
-specialized knowledge of software development (often in a particular computing language). These
-pathways are focused on enchancing or refining the body of software a community maintains.
-Examples include:
-另一方面，以技术为重点的贡献者途径，是需要软件开发的专业知识（通常是特定的计算语言）的贡献。这些途径的重点是加强或完善一个社区所维护的软件体系。
+
+另一方面，以技术为重点的贡献者途径，是需要软件开发的专业知识（通常是特定的编程语言）的贡献。这些途径的重点是加强或完善一个社区所维护的软件体系。
 
 例子包括：
 
