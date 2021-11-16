@@ -27,14 +27,7 @@ source communities present onboarding challenges like:
 
 **异步远程环境**
 
-```
-One of the great perks of a traditional office environment is that you are close to your co-
-workers and managers for face to face interactions and you can find them for quick questions.
-In contrast, when you join a new open source community, you will likely work with community
-members in different georgraphies and time zones. So unless there are good onboarding
-materials such as documentation, video tutorials, wiki pages, and other resources, it’s going to
-be more challenging to get started in open source communties even for experienced self starters.
-```
+
 ```
 传统办公环境的一大好处是，你可以快速找到成员并提问，与同事和经理进行面对面的交流。相反，当你加入一个新的开源社区时，你能会与不同地理位置和时区的社区成员一起工作。因此，除非有好的入门材料，如文档、视频教程、wiki页面和其他资源，否则即使对于有经验的主动志愿者来说，在开源社区起步也将更具挑战性。
 ```
@@ -45,14 +38,12 @@ be more challenging to get started in open source communties even for experience
 当获得实时帮助或反馈比较困难时，人们很容易被简单的工具问题困住，且对自己的工作感到不自信。因此，在开源社区中，良好的入职体验对于新人在社区的早期不感到气馁是至关重要的。
 ```
 
-**Significant variability**
-**显著可变性**
+**巨大的可变性**
 
 ```
 没有哪两个开源社区是相同的。即使是经验丰富的开源贡献者，当他们加入一个新的社区时，也需要熟悉新的工具、新的流程，甚至是新的术语。根据不同的社区，像贡献、社区成员、项目、上游等这些看似简单的术语，其含义都可能略有不同，很容易给新的社区成员带来困惑。
 ```
 
-**Onboarding basics**
 **入职基础**
 
 当你努力使你的项目的入职过程和体验最有效时，问问自己这些问题：
@@ -64,13 +55,7 @@ be more challenging to get started in open source communties even for experience
 
 回答关于你的项目入职过程的第一个问题需要做大量的工作。新来的贡献者需要知道什么是他们可以做出的最有用的贡献。相当多的项目在他们的源代码库中设置了 "首次贡献者" 或类似的标签，这是引导新来的贡献者去解决问题和错误的一个很好的方法，同时也向新人介绍了项目的原始资料。
 
-The second question—regarding "where to contribute"—is one that projects don’t pose as often as
-you’d think. Project veterans might dismissively say, "what you need is on the forums" or "read the
-wiki if you need more detail." But in which specific repository are the material available? Under
-what organization? And what about other, similarly named projects? Ensure your project website
-features clear links to places where new contributors can make an impact on the project. These
-links shouldn’t be buried, either; they should be right on the home page, if possible.
-第二个问题--关于 "在哪里贡献"———— 这是一个项目里并不像你想象的那样经常提出的问题。一些项目老手可能会不屑一顾地说，"你需要的东西在论坛上"或 "如果你需要更多的细节，请去阅读wiki"。但是，在哪个具体的资源库里有这些材料？在什么组织下？还有其他类似的项目呢？确保你的项目网站有明确的链接，让新的贡献者能够对项目产生影响。这些链接也不应该被埋没；如果可能的话，它们应该就在主页上。
+第二个问题--关于 "在哪里贡献"————这是一个并不像你想象的那样在项目里会经常提出的问题。一些项目老手可能会不屑一顾地说，"你需要的东西在论坛上" 或 "如果你需要更多的细节，请去阅读wiki"。但是，在哪个具体的资源库里有这些材料？在什么组织下？还有其他类似的项目呢？确保你的项目网站有明确的链接，让新的贡献者能够对项目产生影响。这些链接也不应该被埋没；如果可能的话，它们应该就在主页上。
 
 Third is the question of "how to contribute." Too often, projects release their source code, even
 make it easily discoverable... and that’s it. You may have heard others refer to this approach as
@@ -87,52 +72,18 @@ barriers and streamline your project’s onboarding process.
 
 接下来，让我们讨论一下你的项目可以使用的一些资源和实践，以消除这些障碍并简化项目的入职流程。
 
-**Onboarding resources**
+
 **入职资源**
 
-A key tool (and practice) for working successfully in an asynchronous environment is good
-documentation. Since contributors won’t typically have fellow community members available near
-them to provide impromptu guidance, it’s important to have important community norms,
-decisions, and processes well-documented in much more detail than they might be in a more
-traditionl work environment. Whether it’s a landing page, project documentation, wiki page, etc., a
-good set of references are crucial for new community members to get familiar with the community
-and get started. It’s also important to ensure that the onboarding documentations are up to date
-and reflect the latest snapshot of the community’s activity, so you want to make it easy for anyone
-to help keeping the contents up to date. An easy-to-use documentation tool definitely helps with
-this, but what’s more important is to cultivate a community culture that impresses on everyone the
-need for reliable, updated documentation.
-在异步环境中成功工作的一个关键工具（和实践）是良好的文档。由于贡献者通常不会有社区成员在他们附近提供指导，所以重要的是要把重要的社区规范、决定和流程记录下来，而且要比在更传统的工作环境中更详细。无论是登陆页面、项目文档、wiki页面等，一套好的参考资料对于新的社区成员熟悉社区并开始工作至关重要。确保入职文件是最新的，反映社区活动的最新快照也很重要，所以你要让任何人都能轻松地帮助保持内容的更新。一个易于使用的文档工具肯定有助于此，但更重要的是培养一种社区文化，让每个人都明白需要可靠、更新的文档。
 
-This may sound obvious, but another key resource for onboarding is other community members.
-Even if people do not sit in the same office, having access to experienced community members to
-help people get started and answer questions can help alleviate the sense of isolation in the early
-days. Something simple like onboarding buddies who can jump on a welcome call may be enough
-for a small community that is relatively new. For larger and more established communities, people
-may have seen working groups focused on onboarding or even community members with formal
-titles such as coaches or mentors.
-这可能听起来很显而易见————入职培训的另一个关键资源是其他社区成员。即使人们不在同一个办公室，但能够接触到有经验的社区成员，帮助人们开始工作并回答问题，也可以帮助缓解早期的孤独感。对于一个相对较新的小型社区来说，一些简单的方式，比如可以接到欢迎电话的入职伙伴可能就足够了。对于更大和更成熟的社区，你会见到专注于入职培训的工作小组，甚至是有正式头衔的社区成员，如教练或导师。
+在异步环境中成功的工作（和实践）的一个关键工具是良好的文档。由于贡献者通常不会有社区成员在他们附近提供即时指导，所以重要的是要把重要的社区规范、决定和流程记录下来，而且要比在更传统的工作环境中更详细。无论是登陆页面、项目文档、wiki页面等，一套好的参考资料对于新的社区成员熟悉社区并开始工作至关重要。确保入职文件是最新的，反映社区活动的最新快照也很重要，所以你要让任何人都能轻松地帮助保持内容的更新。一个易于使用的文档工具肯定有助于此，但更重要的是培养一种社区文化，让每个人都明白需要可靠、更新的文档。
 
-Once people resoures for onboarding are in place, this information (especially on who to reach out
-for help) needs to be posted in multiple places so that people feel welcome to contact their
-onboarding resources and feel encouraged to ask questions. If getting help is difficult, new comers
-will feel discouraged from engaging with the community and even decide that the community may
-not be for them afterall.
-一旦人们的入职资源到位，这些信息（尤其是关于向谁寻求帮助的信息）需要在多个地方发布，这样人们就会因为与他们相关联的入职资源感到欢迎，并感到被鼓励去问问题。如果获得帮助很困难，新来的人就会对参与社区活动感到气馁，甚至决定这个社区可能不适合他们。
+这可能听起来很显而易见————入职培训的另一个关键资源是其他社区成员。即使人们不在同一个办公室，但能够接触到有经验的社区成员，帮助人们开始工作并回答问题，也可以帮助缓解早期的孤独感。对于一个相对较新的小型社区来说，一些简单的方式，比如可以在欢迎消息里跳出来的入职伙伴可能就足够了。对于更大和更成熟的社区，你会见到专注于入职培训的工作小组，甚至是有正式头衔的社区成员，比如教练或导师。
 
-Whether it’s onboarding buddies, mentors, working groups, etc., you want to have a large enough
-pool of volunteers so that these volunteers don’t feel burned out with onboarding activities
-especially as the community grows. What is important is to have a culture within the community so
-that there is an expectation on everyone to help welcome new community members. Ideally, what
-we want to see is a lot of people volunteering to help others whether or not they have a formal title
-as a coach or a mentor. If you have a formal program for onboarding working group, mentors, etc.,
-you should not set a high barrier to entry for community members to become an official
-onboarding resource. The most important qualification should be people’s willingness to help
-others versus other factors such as their tenure in the community or technical expertise in the
-project. The people who are helping with onboarding do not need to have all the answers. Rather,
-they need to help newcomers find answers quicker and not work alone.
-无论是入职伙伴、导师、工作小组等，你都应该希望有足够多的志愿者，这样这些志愿者就不会因为教导入职活动而感到疲惫，特别是随着社区的发展，在社区内形成一种文化，使每个人都有帮助欢迎新社区成员的期望。理想情况下，我们希望看到的是很多人自愿帮助他人，无论他们是否有教练或导师的正式称号。如果你有一个正式的入职工作组、导师等项目，你不应该为社区成员成为正式的入职资源设置高门槛。最重要的资格应该是人们帮助他人的意愿，而不是其他因素，如他们在社区的任期或项目的技术专长。帮助入职的人不需要有所有的这些东西。相反，他们需要帮助新人更快找到答案，而不是让新人独自工作。
+一旦人们的入职资源到位，这些信息（尤其是关于向谁寻求帮助的信息）需要在多个地方发布，这样人们就会因为与他们相关联的入职资源感到欢迎，并感到被鼓励去问问题。如果获得帮助很困难，新来的人就会对参与社区活动感到气馁，甚至认为这个社区可能不适合他们。
 
-**Onboarding practices**
+无论是入职伙伴、导师、工作小组等，你都应该希望有足够多的志愿者，这样这些志愿者就不会因为教导入职活动而感到疲惫，特别是要随着社区的发展，在社区内形成一种文化，使每个人都有帮助欢迎新社区成员的期望。理想情况下，我们希望看到的是很多人自愿帮助他人，无论他们是否有教练或导师的正式称号。如果你有一个正式的入职工作组、导师等项目，你不应该为社区成员成为正式的入职资源组人员设置高门槛。最重要的资格应该是人们帮助他人的意愿，而不是其他因素，像是他们在社区的任期或项目的技术专长。帮助入职的人不需要有所有的这些东西。相反，他们需要帮助新人更快的找到答案，而不是让新人独自工作。
+
 **入职实践**
 
 When people join a new community, they may find following discussions on communication
