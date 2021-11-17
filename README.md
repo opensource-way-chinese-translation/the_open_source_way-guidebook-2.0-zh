@@ -46,7 +46,7 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
    - [ ] The Shape of Things (I.e., Assumptions We Are Making).  
    - [ ] Structure of This Guide.  
    - [ ] A Community of Practice Always Rebuilding Itself.  
-- [ ] Getting Started.  
+- [ ] 开始
    - [ ] Community 101: Understanding, Joining, or Forming a New Community  
    - [ ] New Project Checklist.  
    - [ ] Creating an Open Source Product Strategy.  
