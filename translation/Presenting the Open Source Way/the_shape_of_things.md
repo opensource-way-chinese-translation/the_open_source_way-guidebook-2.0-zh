@@ -1,9 +1,4 @@
-### The Shape of Things (I.e., Assumptions We Are Making)
-
-When you look at this guide’s table of contents, notice the organizational flow: from user to
-participant to contributor. This arrangement specifically tracks our view of how a community
-comes about and grows. And it all starts with a need. If you’ve worked in open source projects and
-communities, you’ve likely seen the cycle many times. It goes something like this:
+### 事物的形状（换句话说，我们所做的假设）
 
 当你看到本指南的目录时，应该能注意到一个有组织的流程：从用户到参与者，到参与者再到贡献者。这种流程特别追踪了我们对一个社区产生和发展过程的看法，而这一切都始于一个需求。如果你在开源项目和社区工作过，你可能已经多次看到这个循环。就像这些：
 
