@@ -1,83 +1,43 @@
-### The Shape of Things (I.e., Assumptions We Are Making)
+### 事物的形状（换句话说，我们所做的假设）
 
-When you look at this guide’s table of contents, notice the organizational flow: from user to
-participant to contributor. This arrangement specifically tracks our view of how a community
-comes about and grows. And it all starts with a need. If you’ve worked in open source projects and
-communities, you’ve likely seen the cycle many times. It goes something like this:
+当你看到本指南的目录时，应该能注意到一个有组织的流程：从用户到参与者，到参与者再到贡献者。这种流程特别追踪了我们对一个社区产生和发展过程的看法，而这一切都始于一个需求。如果你在开源项目和社区工作过，你可能已经多次看到这个循环。就像这些：
 
-1. A person or group addressing a problem creates the first iteration of software that offers one
-    solution to that problem.
-2. Other people with similar needs start using it, forming the core of a userbase.
-3. From the userbase arise enthusiasts, people who promote the software and the community
-    emerging around it (that is, the values and principles that project seems to espouse).
-4. Eventually arising from the users and the enthusiasts come people who are interested in (and
+1. 一个人或团体为了解决一个问题，创造了第一个软件迭代，为这个问题提供一个解决方案。
+2. 其他有类似需求的人开始使用它，形成一个用户群的核心。
+3. 从用户群中产生爱好者，他们推广软件并围绕它出现社区（也就是该项目看上去支持的价值观和原则）。
+4. 最终，从用户和爱好者中产生了对软件感兴趣的人（并且已经成长为有能力） 以某种方式为软件做出贡献；他们确保项目保持活跃，并对最初开发的问题的性质变化做出响应。
+
+因此，一个项目的主要和持续的重点是 _多关照你的用户_，因为他们中的一些人将成为你的贡献者，你希望他们这样做是出于爱而不是怨恨。
+
+所有这些的一个关键因素是认识到所有类型、层次的贡献的价值。最好的做法是平等对待所有对项目的贡献，而不是只看重单一类型的贡献。这些贡献包括内容和代码、时间和努力，以及通过活动、讨论区、基础设施维护等为项目做出的各种广泛贡献。
 
 
-```
-have grown capable of ) contributing to the software in some way; they ensure the project
-remains active and responds to the changing nature of the problem for which it was originally
-developed.
-```
-Thus, the primary and continual focus for a project is to _take good care of your users_ , for some of
-them will become your contributors, and you want them to do it out of love more than resentment.
+当你降低参与的障碍时，你就会使你的项目在各个层面都受到欢迎。但是这并不意味着你要 _消除所有的障碍_ ——只是适当地降低大部分的障碍。例如，对于修补配置管理系统的人来说，适当的障碍是必要的，为此设置的障碍与为贡献帮助文章设置的障碍是不同的。
 
-A key element of all this is recognizing the value in contributions of all types, at all levels. Rather
-than valorizing only a single type of contribution, the best practice is to treat all manner of gifts to
-the project as equal. These contributions comprise content and code, hours and effort, and all types
-of broad contributions for the project via events, discussion forums, infrastructure maintenance,
-and so on.
+**我们的核心观点**
 
-When you lower barriers to participation, you make your project welcoming at all levels. This
-doesn’t mean you _remove all barriers_ —just lower most of them appropriately. Appropriate barriers
-are necessary for someone receiving keys to systems, for example, and these barriers are different
-from those allowing only certain participants to contribute a help article or a patch to the
-configuration management system.
+这项工作的核心有一个观点，那就是解释内容是如何布局的，道路上的步骤是如何揭示的，以便你在开源实践的旅程中无论在哪里都能找到自己。
 
-**Our core opinion**
+关注你的终端用户，降低周围的参与障碍。
 
-There is an opinion at the core of this work, that explains how the content is laid out, how the steps
-on the path are revealed so that you can find yourself wherever you are in your journey of open
-source practice.
-
-Focus on your end users and lower the barriers to participation all around.
-
-Contributors arise from participants, who all started as users.
+贡献者产生于参与者，他们都是从用户开始的。
 
 ```
-Make your software wildly successful by having a user-centric initiative,
-while making the community open and welcoming those users curious
-enough to investigate how the software gets created.
+通过以用户为中心的措施使你的软件获得巨大的成功。同时使社区开放，欢迎那些好奇的用户来研究软件是如何产生的。
 ```
-The pathway of this guidebook therefore is:
 
-1. **Attract users** to your software because it solves the problems they have; then
-2. **Guide participants** who care about open source and sharing good solutions so they can be
-    effective enthusiasts for your software; and
-3. **Grow contributors** from this rich, fertile user and enthusiast base, by making sure when any of
-    those folks look into how the software is made, they see themselves represented and can
-    imagine how they could fit in, too. Make sure when they get to the contributor party, the
-    barriers are clearly lowered and welcoming.
+因此，本指南的路径是。
 
-Think of it this way: It’s one thing to let people know about your great dance party. It’s another
-thing to empower those dancers to advocate for your way of throwing a dance party. It’s a very
-great thing to make the dance party able to evolve to welcome all manner of music and dance from
-the world around us.
+1. **吸引用户** 使用你的软件，因为它解决了他们的问题，然后
+2. **引导参与者** 那些关心开源和分享优良的解决方案的参与着，使他们能够成为你的软件的有效爱好者；并且
+3. **培养贡献者** 从这个丰富的、肥沃的用户和爱好者群体中，确保当这些人看到软件是如何被制造出来的时候，他们能看到自己的身影，并能想象他们如何能融入其中。确保当他们到了贡献者的派对时，障碍显著降低，并且欢迎他们。
 
+用这个情景思考一下：向人们宣传你盛大的舞蹈派对很重要。让这些舞者有能力倡导你举办舞蹈派对是另一回事。能让舞蹈派对能够融合来自我们周围世界的各种形式的音乐和舞蹈是一件非常伟大的事情。
 
-To get the dancers who see your poster and show up is the first step to stick around, and it helps if
-they can see right away that this is a place for them and theirs, too.
+要让看到你舞会的海报并参与的舞者坚持下去是第一步。如果他们能马上看到这是一个适合他们和他们朋友的地方，这歌宣传就会很有帮助。
 
-You can see this pathway to project success doesn’t necessarily emphasize expertise (or even
-existing skills relevant to the project) more than curiosity and willingness to try the software, to
-care about the software, and to help create the software. This does not mean that people don’t bring
-skills to the project; they do, many of them right from first point of contact with the project. But it is
-easier to teach skills than to teach someone to truly care about your project.
+你可以看到这个通往项目成功的途径并不一定是强调专业知识（甚至是与项目相关的现有技能无关），而是强调好奇心和尝试软件的意愿，关注软件，并帮助构建软件。这并不意味着人们不会给项目带来技能；他们确实带来了技能，甚至其中许多人从接触项目的那一刻就开始了。但是，传授技能比引导人真正在乎你的项目要容易。
 
-In this journey, there are many best practices we recommend, including how to put together a plan
-for measuring your community’s progress. We also list some specific areas to be careful of and
-watch out for, including a robust discussion on self-care and mental health considerations for
-community managers themselves.
+在这个过程中，我们推荐了许多最佳实践，包括如何制定一个计划来衡量你的社区的进展。我们还列出了一些需要小心和注意的具体领域，包括对社区管理者本身的自我关心和心理健康考虑的有力讨论。
 
-Our best way of more-deeply conveying all this information is with stories. Aside from stories that
-naturally arise in the body of the chapter, there are other areas in the guidebook and in The Open
-Source Way community to gather all these stories of why.
+我们想通过讲述故事来更深入地传达所有这些信息的最佳方式。除了本章正文中自然出现的故事外，指南和开源之路（The Open Source Way）社区中还有其他区域可以收集所有问题解答的故事。
