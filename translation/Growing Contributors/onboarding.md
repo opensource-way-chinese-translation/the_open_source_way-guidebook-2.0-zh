@@ -3,7 +3,7 @@
 **介绍**
 
 
-贡献者是任何开源项目的生命线。一个项目如果不去不断地欢迎新的参与者，可能会发现自己停滞不前，或者更糟糕————项目会分崩离析。
+贡献者是任何开源项目的生命线。一个项目如果不去不断地欢迎新的参与者，可能会发现自己停滞不前，或者更糟糕———项目会分崩离析。
 
 因此，任何希望长期持续发展的开源项目都应该认真考虑它与新贡献者的联系、迎接和适应的方式。一句话，他们是如何 "上岗"的。一个精心设计的入职过程会使参与者更容易为项目做出贡献，并使贡献者能够尽快对工作产生积极影响。
 
@@ -17,12 +17,9 @@
 
 例如，当你开始在一个新的职位（或在一个全新的组织）工作时，你需要熟悉新的人、新的工具、新的流程、新的规范、新的政策，等等。而你很可能会觉得自己有动力快速完成这些事情，因为你渴望向组织展示你的价值，并在新环境中变得舒适，这样你就可以在最佳状况做你的工作。你越快感觉到自己正在产生影响，你就越有可能留在这里。而你也会越发满意。
 
-
 但是，你也可能加入一个有着广泛历史的团队--存在共同的规范和习俗、内部笑话、行话、不言而喻的协议、共同的纽带和集体认同感。简而言之，你的新团队或组织会有一种在你加入之前就存在的文化。这种文化的各个方面在很大程度上是无形的，但它们会大大影响你与他人合作的能力。一个有效的入职体验能让你了解这种文化。
 
-All of this remains true of onboarding experiences in open source communities. In particular, open
-source communities present onboarding challenges like:
-所有这些在开源社区的入职经历中都是如此。在入职方面的挑战包括：
+这些对于开源社区的入职体验来说都是很真实的。在入职方面的挑战包括：
 
 
 **异步远程环境**
@@ -57,18 +54,7 @@ source communities present onboarding challenges like:
 
 第二个问题--关于 "在哪里贡献"————这是一个并不像你想象的那样在项目里会经常提出的问题。一些项目老手可能会不屑一顾地说，"你需要的东西在论坛上" 或 "如果你需要更多的细节，请去阅读wiki"。但是，在哪个具体的资源库里有这些材料？在什么组织下？还有其他类似的项目呢？确保你的项目网站有明确的链接，让新的贡献者能够对项目产生影响。这些链接也不应该被埋没；如果可能的话，它们应该就在主页上。
 
-Third is the question of "how to contribute." Too often, projects release their source code, even
-make it easily discoverable... and that’s it. You may have heard others refer to this approach as
-"throwing it over the wall," and it is not a phrase people tend to use politely. Too many projects will
-push their code or content into a public place, declare it open to all, and then wonder where all the
-contributors are. This can be because there is a real barrier to entry, in the lack of documentation
-
-
-and procedures for getting contributions into the project.
-
-Next, let’s discuss discuss some resources and practices your project can use to eliminate these
-barriers and streamline your project’s onboarding process.
-第三个问题是“如何贡献”的问题。项目经常发布源代码，来使其易于发现。。。就只是这样。你可能听说过其他人把这种方法称为“把它扔到墙上（throwing it over the wall）”，而这不是一个人们倾向于礼貌地使用的短语。太多的项目会将其代码或内容直接推到公共场所，宣布对所有人开放，然后想知道所有可能的贡献者都在哪里。这可能是因为在项目中缺乏获得贡献的文件和程序，且存在真正的进入障碍。
+第三个问题是“如何贡献”的问题。有的项目经常公布源代码，来使其易于发现。。。对的，就只是这样。你可能听说过其他人把这种方法称为“把它扔到墙上（throwing it over the wall）”，但这不是一个人们倾向于礼貌地使用的词语。太多的项目会将其代码或内容直接推到公共场所，宣布对所有人开放，然后想知道所有可能的贡献者都在哪里。这可能是因为在项目中缺乏获得贡献的文件和程序，且存在真正的加入障碍。
 
 接下来，让我们讨论一下你的项目可以使用的一些资源和实践，以消除这些障碍并简化项目的入职流程。
 
@@ -86,51 +72,29 @@ barriers and streamline your project’s onboarding process.
 
 **入职实践**
 
-When people join a new community, they may find following discussions on communication
-channels (such as mailing lists or Slack) to be overwhelming. To alleviate their confusion or stress,
 
-
-consider creating spaces in these channels specifically for new community members to use as they
-get started and acclimated. For example, dedicated channels such as "getting started" or
-"introductions" can be good places for people to feel safe asking newcomer questions. These
-channels also allow more experienced community members to assist with onboarding by helping
-answer newscomer questions or even simply by offering encouragement. It all goes a long way to
-making new community members feel welcome as they’re getting started.
-
-Once new community members feel oriented and comfortable enough to begin contributing to an
-open source project, their next questions will be "Where can I contribute?"
 当人们加入一个新的社区时，他们可能会发现在交流渠道（如邮件或Slack）上的讨论让人不知所措。为了减轻他们的困惑或压力，可以考虑在这些频道中,为新的社区成员创造空间，让他们在开始和适应的时候使用。诸如 "入门 "或 "介绍 "这样的专用频道可以成为为人们提供安全感的地方，以便新成员提问。这些频道也允许更多有经验的社区成员通过帮助回答新用户的问题，甚至只是提供鼓励来协助入职。这对使新的社区成员在开始时感到受欢迎有很大的帮助。
 
 一旦新的社区成员觉得自己有足够的能力开始为一个开源项目做出贡献，他们的下一个问题将是 "我在哪里可以做出贡献？"
 
-So to help newcomers get started, you may wish to develop a list of work items that new
-community members in particular can tackle. Many communities label issues in their issue trackers
-with something like "good for first time contributors," "good first issue," or "help wanted," so
-newscomers can more easily identify tasks with which they can help immediately. Issues with these
-labels could range from documentation errors, easy bug fixes, or other simple tasks that will help
-new contributors experience early successes and therefore build their confidence. Having a contact
-person (or people) servinvg as mentors or coaches listed on these issues (in case people need help
-getting started) can also be helpful. Always remember: Issues that may seem simple to experienced
-community members might not be as simple for newcomers.
-因此，为了帮助新来的人开始工作，你应该制定一份工作清单，特别是新来的社区成员可以处理的工作项目。以及社区成员可以处理的工作项目。许多社区在他们的issue（译者注：问题追踪器）中给问题贴上标签，如 "适合首次贡献者"、"好的第一个issue "或 "需要帮助"，这样新成员可以更容易地确定他们可以立即提供帮助的任务。标签的范围可以是文档错误、简单的错误修复，或其他简单的任务，这些任务将帮助新的贡献者体验早期的成功，从而建立他们的信心。在这些问题上列出一个（或几个）作为导师或教练的联系人（以备人们需要帮助时）也是有帮助的。永远记住：对有经验的社区成员来说可能很简单的问题，对他们来说可能不那么简单。
+
+因此，为了帮助新来的人开始工作，你应该制定一份工作清单，特别是新来的社区成员可以处理的工作项目。以及社区成员可以处理的工作项目。
+
+许多社区在他们的issue（译者注：问题追踪器）中给问题贴上标签，如 "适合首次贡献者"、"好的第一个issue "或 "需要帮助"，这样新成员可以更容易地确定他们可以立即提供帮助的任务。标签的范围可以是文档错误、简单的错误修复，或其他简单的任务，这些任务将帮助新的贡献者体验早期的成功，从而建立他们的信心。
+
+在这些问题上列出一个（或几个）作为导师或教练的联系人（以备人们需要帮助时）也是有帮助的。永远记住：对有经验的社区成员来说可能很简单的问题，对他们来说可能不那么简单。
 
 许多开源社区组织活动旨在联系他们的成员。无论这些活动是在同一地点还是虚拟的，它们都为社区成员提供了同步合作的绝佳机会，并在这个过程中相互了解。这些活动可以是峰会、黑客马拉松、用户会议等。在这些活动中，可以考虑为新的社区成员创造特殊的程序或空间。
+
 如果你的预算允许，你可以组织正式的迎新会，作为一个 "day 0" 活动，或者在午餐时间组织迎新会，让新成员认识其他社区成员，这样他们就知道以后可以向谁提问了。
 
 
 **贡献途径**
 
-Once new contributors have made their initial contributions to your project, they’ll begin looking
-for ways to make more significant impacts. To do this, they’ll often look for ways they can apply
-their specific skills and talents to the project.
-一旦新的贡献者对你的项目做出了初步贡献，他们会开始寻找方法来产生更重要的影响。为了做到这一点，他们通常会寻找可以将自己的特定的具体技能和才干用于在项目中的应用。
 
-Opportunities for volunteers to begin lending their unique talents to an open source project are
-called that project’s "contributor pathways." The greater the number of contributor pathways your
-project features, the more likely it is to recruit participants with the various skills required for the
-project’s success.
-志愿者开始为一个开源项目提供他们独特的才能的机会被称为该项目的 "贡献者途径"。你的项目有越多的贡献者途径，就越有可能招募到具有项目成功所需的各种技能的参与者。
+一旦新的贡献者对你的项目做出了初步贡献，他们会开始寻找方法来产生更重要的影响。为了做到这一点，他们通常会寻找可以将自己的特定的具体技能和才干应用在项目中的场景。
 
+志愿者开始为一个开源项目提供他们独特才能的机会被称为该项目的 "贡献者途径"。你的项目有越多的贡献者途径，就越有可能招募到具有项目成功所需的各种技能的参与者。
 
 你的项目会有任何数量的特定贡献者途径，但这些途径一般会分为两个基本类别：以社区为重点的途径和以技术为重点的途径。
 
@@ -163,21 +127,11 @@ Examples include:
 7. 创建和维护项目逻辑图
 8. 代码和用户界面本地化
 
-When assessing your project’s contributor pathways, ask yourself: Does your project currently offer
-new (and existing) contributors opportunities to contribute rewardingly to (or even take ownership
-of ) work in each of these areas? If not, one general way to begin expanding your project is by
-making concerted efforts to formalize, refine, document, and advertise these contributor pathways.
-在评估你的项目的贡献者途径时，问问自己。你的项目目前是否为新的（和现有的）贡献者提供了机会，使他们能够对这些领域的工作做出有价值的贡献（甚至拥有所有权）？ 如果没有，开始扩大你的项目的一个常用方法是通过协同努力使这些贡献者途径正式化、细化、文件化和广告化。
 
-We call these "pathways" because they allow participants to deepen investment in the community
-_gradually_ so they don’t feel overwhelemed and can acclimate themselves to the project’s processes
-and culture as they become more involved. Ideally, as your community matures, it will construct
-pathways that incrementally confer more responsibility and authority on contributors.
-Contributors following your project’s contributor pathway related to events, for example, probably
-won’t get started by taking sole responsibility for your community’s flagship annual event. But they
-might work with experienced community members on planning that event, taking charge of
-securing a venue, advertising, registration, and more.
-我们称这些为 "途径"，因为它们允许参与者逐步加深对社区的投入，这样他们就不会感到负担过重。并能在更多的参与中适应项目的流程和文化。理想的情况是，随着社区的成熟，它将会构建一些途径，逐步赋予贡献者更多的责任和权力。例如，遵循你的项目的贡献者路径的贡献者，可能不会一开始就单独负责你的社区的年度旗舰活动。但他们可能会与有经验的社区成员一起策划活动，负责确保场地、广告、注册等工作。
+在评估你的项目的贡献者途径时，问问自己。你的项目目前是否为新的（和现有的）贡献者提供了机会，使他们能够对这些领域的工作做出有价值的贡献，以回报（甚至拥有）这些领域的工作？ 如果没有，开始扩大你的项目的一个常用方法是通过协同努力使这些贡献者途径正式化、细化、文件化和推广化。
+
+
+我们称这些为"途径"，是因为它们允许参与者逐步加深对社区的投入，这样他们就不会感到负担过重。并能在更多的参与中适应项目的流程和文化。理想的情况是，随着社区的成熟，它（社区）将会构建一些途径，逐步赋予贡献者更多的责任和权力。例如，遵循你的项目的贡献者路径的贡献者，可能不会一开始就单独负责你的社区的年度旗舰活动。但他们可能会与有经验的社区成员一起策划活动，负责确保场地、广告、注册等工作。
 
 
 **参考资料：来自开源社区的入职示例**
