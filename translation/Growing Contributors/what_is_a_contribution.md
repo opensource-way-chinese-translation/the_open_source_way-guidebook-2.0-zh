@@ -1,65 +1,56 @@
-### What Is a Contribution?
+### 什么是贡献？
 
-There is a common misunderstanding that only code and possibly documentation are a "true"
-contribution to an open source project. This terrible idea has a name that deserves to stay a part of
-history, "code is king." Let’s have no more of that.
+有一种常见的误解，认为只有代码和可能编写的其开发文档才是对开源项目的“真正”贡献。这个可怕的想法有一个在历史上铭记的名字——“代码为王（code is king)”。
 
-In truth, there are exponentially more ways to contribute than just those two ways. And
-exponentially more value for the project and the diverse group of contributors making those
-contributions.
+但事实上，除了这两种方式，还有更多的其他贡献方式。更多的贡献方式也给项目和这些作出贡献的形形色色的群体带来了成倍的价值。
 
-**An open source Contribution**
+**开源贡献**
 
 ```
-Any original, intentional, and substantive object given freely to an open source community,
-under the licensing of that community. A contribution can come from an individual or a
-community.
+贡献就是在开源社区的许可下，免费提供给该社区的任何原创的、有目的性的、实在的对象。贡献可以来自个人或是社区。
 ```
-**An open source Contributor**
+
+**开源贡献者**
 
 ```
-Any individual person involved in making Contributions to the community. Communities are
-interpersonal by their nature. They consist of humans, not organizations. Organizations can
-send their members, staff, leaders, and so forth out to make contributions to a community as a
-contributor
+开源贡献者即为参与对社区做出贡献的任何个人。社区本质上是一种人际关系。他们由人组成，而不是机构。但机构也可以派遣其成员、员工、领导等作为贡献者为社区做出贡献。
 ```
-Examples of specific contributions (objects):
 
-- An idea.
-- A design suggestion.
-- Creating or improving a process.
-- Performing any sustained effort.
-- A piece of content, such as a document, release announcement, interview, how-to article,
-    operations page, and so forth.
-- Code, a type of content that instructs machines to do things, regardless of the type of code.
+贡献的具体示例：
+
+- 一个想法。
+
+- 一个设计建议。
+
+- 创建或改进一个流程。
+
+- 进行任何持续性的作用。
+
+- 一段内容，如文档、发布公告、访谈、操作教程文章、操作页面，等等。
+
+- 代码。与类型无关，只要是能让机器执行的内容。
 
 
-- Physical materials, such as servers or contributor gifts.
-- Monetary, where possible and welcome. (This is not always an easy or even possible way to
-    contribute to many open source projects.)
-- Being a moderator on a forum.
-- Helping at an event
-- Being the manager for a release.
-- A website design.
-- An automation script.
-- A test suite.
-- Testing and bug reporting.
-- Build a relationship with between two projects.
-- Write a marketing plan.
-- Creating a roadmap.
-- Performing project management (PM) skills for an effort in the community.
-- Doing quantitative or qualitative analysis.
-- Creating a logo.
-- Establishing a project’s Code of Conduct.
-- Helping the project with legal considerations.
-- Building a contributor/maintainer/leader recruiting process.
-- And so forth.
+- 实物材料，如服务器或者任何贡献的礼物。
+- 金钱，在可能的情况下。(这并不总是一个容易的，甚至是可行的贡献给许多开源项目的一种方式)。
+- 作为论坛的版主。
+- 在活动中提供帮助。
+- 担任发布版本的管理者。
+- 做一个网站设计。
+- 编写自动化脚本。
+- 测试套件。
+- 测试和报告bug。
+- 在两个项目之间建立关系。
+- 写一份营销计划。
+- 制定规划图
+- 在社区的一项工作中中履行项目管理（PM）技能。
+- 做定量或定性分析。
+- 设计一个logo。
+- 建立项目的行为准则。
+- 为项目提供法律方面的建议。
+- 构建贡献者/维护者/领导者招新流程。
+- 等等其他的贡献。
 
-Practically any skill you might learn in a job role, from customer service to product management,
-can underly a contribution. Any need you can imagine another community having, might be a need
-of an open source community and can form the basis of a contribution.
+实际上，从客户服务到产品管理，你在工作中可能学到的任何技能都是你做出贡献的基础。你能想到的任何其他社区所需的需求，都可能是一个开源社区的需求；这也是一种贡献的基础。
 
-It is useful to be mindful of the breadth and depth of types of contributions. As part of the practice
-of community management, you will have to be aware of the many ways people contribute to a
-project. Then you can thank them for their contribution, connecting their action from the
-individual back to the whole and the greater effort.
+注意各种有广度和有深度的贡献都是有益的。作为社区管理实践的一部分，你必须意识到人们对一个项目的多种贡献方式。然后从个人到整体，你可以感谢大家一起做出的努力。
