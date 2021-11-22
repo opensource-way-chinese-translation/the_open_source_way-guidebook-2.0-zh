@@ -1,24 +1,30 @@
-### Announcing Software Releases
+### 宣发软件
 
-**Introduction**
+**介绍**
 
 One of any open source project’s functions is releasing software with the goal of reaching as many
 users as possible. To help projects succeed, you’ll need to ensure that you distribute news of your
 release in a timely fashion, to the widest relevant audience, and with the right information.
+任何开源项目的功能之一就是宣发软件，目的是让尽可能多的用户了解。为了帮助项目成功，你需要确保及时向最广泛的相关受众发布你的发行消息，并提供正确的信息。
 
 Following some basic guidelines for coordinating release announcements can ensure that your
 excellent work doesn’t get lost in the shuffle. Remember that these are only guides; you
 community’s practices may differ.
+遵循一些发布公告的基本准则，可以确保你出色的工作不会在一片混乱中被浪费。记住，这些只是指南；你所在社区的做法可能有所不同。
 
-**General guidelines**
+**一般准则**
 
 - Do not set any release date for a Friday or significant holiday. The ideal release date for
     maximum coverage is Tuesday.
+- 不要为周五或重要假日设定任何发布日期。覆盖面最大的理想发布日期是星期二。
 - If at all possible, coordinate major releases with relevant conferences and events.
+- 如果可能的话，请将重大发布与相关会议和活动相协调。
 - Tailor release announcements and blogs to encourage both _use_ of the software as well as
     _contributions_ to it.
+- 定制发布公告和博客，以鼓励对软件的使用以及对其的贡献。
 - Talk about how a project benefits the user; explain benefits rather than focusing on technical
     details.
+- 讲述一个项目如何为用户带来益处；而不是专注于技术细节。
 
 **Track: Release candidate and final release for major point release X.0**
 
