@@ -5,7 +5,8 @@
 One of any open source project’s functions is releasing software with the goal of reaching as many
 users as possible. To help projects succeed, you’ll need to ensure that you distribute news of your
 release in a timely fashion, to the widest relevant audience, and with the right information.
-任何开源项目的功能之一就是宣发软件，目的是让尽可能多的用户了解。为了帮助项目成功，你需要确保及时向最广泛的相关受众发布你的发行消息，并提供正确的信息。
+任何开源项目的功能之一就是宣发软件，目的是让尽可能多的用户了解。
+为了帮助项目成功，你需要确保及时向最广泛的相关受众发布你的发行消息，并提供准确的消息。
 
 
 遵循一些发布公告的基本准则，可以确保你出色的工作不会在一片混乱中被浪费。记住，这些只是指南；你所在社区的做法可能有所不同。
@@ -21,59 +22,27 @@ release in a timely fashion, to the widest relevant audience, and with the right
 
 对主版本（X.0）遵循或顺应如下流程:
 
-1. No less than three weeks from release date:
-    a.Create a collaborative document (Etherpad, Google Doc) to include highlighted features for
-       the release announcement, press release, and blog post.
 1. 距离发布日期不少于三周:
     a、创建一个协作文档（Etherpad，Google Doc）来凸显功能，包括发布公告、新闻稿和博客文章。
-
-2. Two weeks from release date:
-    a.Generate a changelog outlining notable changes to the release that will need to be
-       documented and included within the main changelog file.
-    b. Merge any relevant content from the updated changelog into the release announcement,
-    press release, and blog post.
 2. 发布日期于两周以内。
     a、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
     b、将更新后的更新日志中的任何相关内容合并发布到公告、新闻稿和博客文章中。
 
 ```
-c. Create press release and send to your organization’s media relations team for vetting.
-```
-```
 c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核。
 ```
 
-3. One week from release date:
-    a.Schedule social media content for distribution before, during, and after release date.
 3. 发布日期于一周以内：
     a、在发布日期之前、期间和之后安排社交媒体内容的分发。
-
-4. Three days from release date:
-    a.Confirm release manager and engineering lead have signed off on release announcement
-       and blog post.
-    b. Confirm media relations staff have signed off on press release.
 4. 距发布日期三天：
     a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
     b、确认媒体关系人员已经签署了新闻发布。
-
-5. Two days from release date:
-    a.Complete all final QA/smoke tests.
-    b. Place build on appropriate servers.
-    c. Stage all documentation and review it for display issues.
 5. 距发布日期两天：
     a、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
     b、在适当的服务器上搭建架构。
     c、将所有的文件分阶段进行审查，以显出其问题。
-
-6. One day before release date:
-    a.Send copies of press release to relevant media outlets.
 6. 距发布日期一天
     a、向相关媒体发送新闻稿副本。
-    
-7. Day of release:
-    a.Make all code and documentation visible to the world.
-    b. Begin publishing scheduled social media and blog post materials.
-    c. Post press release on newswires (in conjunction with media relations team).
 7. 发布日：
     a、将所有的代码和文档开放。
     b、开始发布预定的社交媒体和博客文章材料。
@@ -83,29 +52,12 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
 
 遵循或顺应这个过程，进行Y版本点发布（X.Y）：
 
-1. No less than 2 weeks from release date:
-    a.Create a collaborative document (Etherpad, Google Doc) to include highlighted features for
-       the release announcement and blog post.
 1. 距发布日期不少于两周:
     a、创建一个协作文档（Etherpad，Google Doc）来凸显功能，包括发布公告、新闻稿和博客文章。
-
-2. One week from release date:
-    a.Schedule social media content for distribution before, during, and after release date.
-    b. Generate a changelog outlining notable changes to the release that will need to be
-    documented and included within the main changelog file.
-    c. Merge any relevant content from the updated changelog into the release announcement and
-       blog post.
 2. 距发布日期一周
     a、在发布日期之前、期间和之后安排社交媒体内容的发布。
     b、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
     c、将更新的更新日志中的任何相关内容合并发布到公告和博客文章中。
-
-3. Two days from release date:
-    a.Ensure the release manager and engineering lead have signed off on release announcement
-       and blog post.
-    b. Complete all final QA/smoke tests.
-    c. Place build on appropriate servers.
-    d. Stage all documentation and review it for display issues.
 3. 距发布日期两天：
     a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
     b、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
@@ -113,17 +65,6 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
     d、将所有的文件分阶段进行审查，以显出其问题。
 
     
-
-4. Day of release:
-
-
-```
-a.Make all code and documentation visible to the world.
-b. Begin publishing scheduled social media and blog materials.
-c. Send copies of press release to relevant media outlets.
-```
-
-
 
 4. 发布日：
 
@@ -135,7 +76,6 @@ c. Send copies of press release to relevant media outlets.
     ```
 **方针：次要版本点X.Y.Z的最终发布**
 
-Follow or adapt this process for a minor Z point release (X.Y.Z):
 遵循或顺应这个过程来完成对较小的Z版本点的发布 （X.Y.Z）:
 
 1. No less than one week from release date:
@@ -148,25 +88,16 @@ Follow or adapt this process for a minor Z point release (X.Y.Z):
     a、在发布日期之前、期间和之后，安排社交媒体内容的发布。
     b、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
     c、将更新的更新日志中的任何相关内容合并发布到公告和博客文章中。
-
-2. Two days from release date:
-    a.Ensure the release manager and engineering lead have signed off on release announcement
-       and blog post.
-    b. Complete all final QA/smoke tests.
-    c. Place build on appropriate servers.
-    d. Stage all documentation and review it for display issues.
 2. 距发布日期两天
     a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
     b、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
     c、在适当的服务器上搭建架构。
     d、将所有的文件分阶段进行审查，以显出其问题。
-
 3. Day of release:
     a.Make all release artifacts and documentation visible to the world, if not already (release
        may be synced to mirrors ahead of actual release announcement).
-    b. Begin publishing scheduled social media and blog materials.
 3. 发布日：
-    a、将所有的代码和文档开放，如果还没有的话。（发布版本可以在实际发布前同步到镜像）。
+    a、将所有的代码和文档开放，如果还没有的话。（发布版本可以在实际发布前同步到镜像上）。
     b、开始发布预定的社交媒体和博客材料。
 
 **在所有主要版本点和重要版本点发布之后**
@@ -182,18 +113,10 @@ your release announcement in a way that makes it most likely for a media outlet 
 
 下面是一个发布公告的模板，其中有一些指南。请注意，这只是一个指南；完全照搬这里的内容可能对你的项目没有效果。
 
-Be direct and factual about information you share in public statements. Avoid hyperbole ("the
-bestest project ever made!!!") and speculation ("the only project that can do this"). Media outlets
-rapidly disregard such hyperbole and might avoid spreading the word about your release
-altogether.
+
 对你在公开声明中分享的信息要直接和符合事实。避免夸大其词（"有史以来最好的项目！！"）和臆测（"唯一能做到这一点的项目"）。媒体很快就会无视这种夸张的说法，并可能完全避免传播你发布的消息。
 
-Release announcements are not opportunities to hype your project (as tempting as using them for
-this purpose may be). You can and should take the opportunity to thank your hard-working
-community. This gives credit to those who’ve done the work and emphasizes the free and open
-source nature of the project.
 发布公告不是炒作你项目的机会（尽管以此为目的而使用它们可能很诱人）。你可以而且应该利用这个机会感谢你努力工作的社区。这样可以把功劳归于那些做了工作的人，并强调项目的免费和开源性质。
-
 
 要清楚、简洁。用事实支持你的主张。这将有助于使你的公告得到更广泛的传播。
 
@@ -213,7 +136,6 @@ includes several new features, including [list of newest features].
 由全球社区开发的X项目是一个[详细的段落，其中包括该项目是什么，它能做什么，以及任何其他相关的信息应包括在这里]。
 ```
 
-Notable enhancements to Project X x.y include:
 项目X x.y版本的显著增强包括：
 
 [描述第一个主要功能的详细段落]
@@ -221,7 +143,6 @@ Notable enhancements to Project X x.y include:
 [描述第二个主要功能的详细段落]
 
 [描述第三个主要功能的详细段落]
-
 ```
 
 ```
@@ -232,11 +153,12 @@ Notable enhancements to Project X x.y include:
 [如果可能的话，请在这里添加一位著名的社区成员或技术负责人关于新版本的引言。］
 ```
 
+```
 **附加资源**
 
 - 阅读更多关于X项目x.y版本的亮点[URL]。
 - 在推特上获得更多的X项目更新[URL]。
-- 阅读更多关于Project X社区活动的信息 [URL]
+- 阅读更多关于Project X社区活动的信息[URL]。
 
 **关于项目X**
 
