@@ -1,58 +1,30 @@
-## Attracting Users
+## 吸引用户
 
-This section gives important, highly useful, and timely advice on some of the most important parts
-of what makes an open source software project successful. We put them in this section with the goal
-of helping to attract users, rather than saving, for example, communication or diversity
-considerations as later steps in the engagement toward contributor.
+本章就开源软件项目取得成功的切要之处给予重要、有所裨益、及时的建议。我们把这些建议写在此章，旨在帮助吸引用户，而非留住用户。因此，沟通和多元化的思想作为后续步骤。
 
-This guidebook says the way to grow a contributor community is through user adoption. There are
-a few succinct reasons why.
+本指南认为，发展贡献者社区的方法是用户采纳。这里有一些言简意赅的原因。
 
-One is a sheer numbers argument: the larger the pool of people, the more will become interested in
-participating, then contributing. The more diverse the pool of people, the larger it can be. That is, if
-only men feel welcome in your project, you have reduced the size of your pool of users/contributors
-to less than half of the population of humanity.
+一是纯粹的数字论证：当项目涉及的人越多，那么就会有更多的人参与其中，进行贡献。人群画像的组成越多样，项目就越大。也就是说，如果你只欢迎男性参与你的项目，那么参与项目的用户或是贡献者就会跌至人类人口的一半以下。
 
-Expert contributors rarely arrive suddenly and ready to contribute. More people become
-contributors through a pathway of becoming a user of the software first, then participating in the
-wider user community, and eventually becoming a starting contributor. After some time (short or
-long), their expertise is realized within the community. More people who start this pathway means
-more people will complete it.
+很少会有专家级别的贡献者突然对项目做出贡献。更多的人成为贡献者是这样的途径——他们首先是软件的用户，然后参与到用户社区中，最终开始成为一名贡献者。再经过一段或长或短的时间，他们的专业知识在社区中得到体现。越多的人走这样的路线，越多的人就会完成这个路线。
 
-Diversity and communication also come at the front of a project. Communication is important for
-sharing with the world what your software does and why they should use it; and to capture their
-feedback in effective forums. Diversity and inclusivity are goals that provide strength for
-innovation, resilience, and long-term sustainability. If your community doesn’t look like this world,
-it won’t last long in this world.
+沟通和多元化也是一个项目的首要任务。向世界分享你的软件，告诉大家你的软件是做什么的、为什么要用你的软件——在这个过程中沟通是尤为重要的。在论坛中获取到用户的反馈也是很重要的。多样性和包容性是为创新、弹性和长期可持续发展做准备。如果你的社区与这个世界格格不入，那它也不会长存于这个世界。
 
-A way to think of this is: The first time someone sees your community has a formal Code of Conduct
-and diverse faces in leadership should be the first time they visit your website. The people who
-most need to see themselves represented in the community already—to know they are going to be
-safe physically and emotionally in joining—are going to make their decision about how welcoming
-your community is from the first time they visit your project website. Without these sort of
-elements visibly part of the culture, these folks are going to be long gone before considering
-becoming involved as collaborators and contributors.
+可以这么想想——人们第一次造访你的社区，看到社区有正式的行为准则和多元化的领导者面孔。他们会知道自己在社区中的位置，有着身心上的安全感。这会在他们第一次造访项目网站时，留下社区热情的印象。如果没有这些明显的文化元素，这些人会在考虑成为合作者和开发者之前放弃。
 
-This section contains chapters that:
+本章会：
 
-- Help you understand the basic elements of an open source project that intends to have a
-    community of users and contributors.
-- Explain how to communicate effectively in and around an open source project.
-- Give some essential steps to turn interest into users.
-- Show you that building a diverse community starts with being inclusive from the beginning, in
-    what every end-user sees and experiences.
+- 帮助你了解一个打算拥有用户和贡献者的社区的基本元素；
+- 阐述如何在开源项目中进行有效沟通；
+- 给出一些把兴趣变为用户的基本步骤；
+- 向您展示一个一开始就呈现包容、多元性的社区，让每一个终端用户都能看到、体验到。
 
-This section is useful for you if:
+如果你满足以下其中之一，那么这章会对你很有用：
 
-- You want to understand more about the perspective of this guidebook that attracting users is
-    the first part of building a contributor community.
-
-
-- You are looking for a source or reference for a list of key elements of an open source project,
-    whether you are building one or researching the viability of one, or for another purpose.
-- You are looking for some tips and tricks to get more users to your software.
-- You have been frustrated trying to attract contributors of one, another, or all types.
-- You are convinced you need a more diverse and inclusive community, and are looking for help
-    in making that happen, such as convincing others or starting up programs.
-- You are not sure about this "diversity" thing and why it matters for open source software.
-- You read the chapter before this one and you like to read a book from start to finish.
+- 你想要了解本指南的更多观点——吸引用户是建立贡献者社区的主要任务；
+- 你正在寻求一个开源项目的关键要素清单，无论是你想着手打造一个开源项目、研究一个项目可行性或是什么其它的目的；
+- 你正在探寻怎么让软件拥有更多用户的技巧；
+- 没能成功吸引到贡献者；
+- 你确信需要一个更多元化和包容性的社区，并想实现你的想法，诸如让自己更有说服力或是启动项目；
+- 你并不认为也不理解“多元化”对开源项目有重要意义；
+- 你已经阅读前面的章节，并喜欢从头到尾读完一本书。
