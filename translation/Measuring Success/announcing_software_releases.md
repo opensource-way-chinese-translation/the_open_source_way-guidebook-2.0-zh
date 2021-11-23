@@ -2,10 +2,7 @@
 
 **介绍**
 
-One of any open source project’s functions is releasing software with the goal of reaching as many
-users as possible. To help projects succeed, you’ll need to ensure that you distribute news of your
-release in a timely fashion, to the widest relevant audience, and with the right information.
-任何开源项目的功能之一就是宣发软件，目的是让尽可能多的用户了解。
+任何开源项目的功能之一就是宣发软件，目的是让尽可能多的用户使用。
 为了帮助项目成功，你需要确保及时向最广泛的相关受众发布你的发行消息，并提供准确的消息。
 
 
@@ -26,7 +23,7 @@ release in a timely fashion, to the widest relevant audience, and with the right
     a、创建一个协作文档（Etherpad，Google Doc）来凸显功能，包括发布公告、新闻稿和博客文章。
 2. 发布日期于两周以内。
     a、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
-    b、将更新后的更新日志中的任何相关内容合并发布到公告、新闻稿和博客文章中。
+    b、将新的更新日志中的任何相关内容合并发布到公告、新闻稿和博客文章中。
 
 ```
 c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核。
@@ -35,7 +32,7 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
 3. 发布日期于一周以内：
     a、在发布日期之前、期间和之后安排社交媒体内容的分发。
 4. 距发布日期三天：
-    a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
+    a、确认发行经理和总工程师已经签署并发布了公告和博客文章。
     b、确认媒体关系人员已经签署了新闻发布。
 5. 距发布日期两天：
     a、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
@@ -57,9 +54,9 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
 2. 距发布日期一周
     a、在发布日期之前、期间和之后安排社交媒体内容的发布。
     b、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
-    c、将更新的更新日志中的任何相关内容合并发布到公告和博客文章中。
+    c、将新的更新日志中的任何相关内容合并发布到公告和博客文章中。
 3. 距发布日期两天：
-    a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
+    a、确认发行经理和总工程师已经签署并发布了公告和博客文章。
     b、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
     c、在适当的服务器上搭建架构。
     d、将所有的文件分阶段进行审查，以显出其问题。
@@ -78,18 +75,12 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
 
 遵循或顺应这个过程来完成对较小的Z版本点的发布 （X.Y.Z）:
 
-1. No less than one week from release date:
-    a.Schedule social media content for distribution before, during, and after release date.
-    b. Generate a changelog outlining notable changes to the release that will need to be
-    documented and included within the main changelog file.
-    c. Merge any relevant content from the updated changelog into the release announcement and
-       blog post.
 1. 距发布日期不小于一周：
     a、在发布日期之前、期间和之后，安排社交媒体内容的发布。
     b、生成一份更新日志，概述需要记录并包含在主更新日志文件中的，此次发布的显著变化。记录并包含在主更新日志文件中。
-    c、将更新的更新日志中的任何相关内容合并发布到公告和博客文章中。
+    c、将新的更新日志中的任何相关内容，合并发布到公告和博客文章中。
 2. 距发布日期两天
-    a、确认发布经理和总工程师已经签署并发布了公告和博客文章。
+    a、确认发行经理和总工程师已经签署并发布了公告和博客文章。
     b、完成所有最终的质量保证（QA）/冒烟测试(smoke tests)。
     c、在适当的服务器上搭建架构。
     d、将所有的文件分阶段进行审查，以显出其问题。
@@ -106,13 +97,9 @@ c、创建新闻稿，并发送给你的组织的媒体关系团队进行审核�
 
 **撰写新闻稿/发布公告**
 
-Writing and distributing a release announcement would seem relatively straightforward; however,
-some strategies for doing this work are more effective than others. Specifically, you should write
-your release announcement in a way that makes it most likely for a media outlet to pick it up.
-撰写和发布发布公告似乎相对简单；但是，做这项工作的一些策略比其他策略更有效。具体来说，你应该以一种使媒体最有可能接受它的方式来写你的发布公告。
+撰写和发布发布公告似乎相对简单；但是，做这项工作中的一些策略比其他策略更有效。具体来说，你应该以一种使媒体最有可能接受它的方式来写你的发布公告。
 
 下面是一个发布公告的模板，其中有一些指南。请注意，这只是一个指南；完全照搬这里的内容可能对你的项目没有效果。
-
 
 对你在公开声明中分享的信息要直接和符合事实。避免夸大其词（"有史以来最好的项目！！"）和臆测（"唯一能做到这一点的项目"）。媒体很快就会无视这种夸张的说法，并可能完全避免传播你发布的消息。
 
@@ -121,15 +108,8 @@ your release announcement in a way that makes it most likely for a media outlet 
 要清楚、简洁。用事实支持你的主张。这将有助于使你的公告得到更广泛的传播。
 
 **新闻稿/发布公告**
-
 ```
-Project X, the [main purpose of project: goals, functions, governance...]
-project, today announced the general availability of Project X x.y, a
-community-driven [description of project]. This latest community release
-includes several new features, including [list of newest features].
-```
-```
-项目X，[项目的主要目的：目标、功能、管理...]项目今天宣布了Project X x.y的普遍可用性，这是一个由社区驱动的[项目描述]。这个最新的社区版本有几个新功能，包括[最新功能列表]。
+项目X，[项目的主要目的：目标、功能、管理...]项目今天宣布了Project X x.y的常规可用性，这是一个由社区驱动的[项目描述]。这个最新的社区版本有几个新功能，包括[最新功能列表]。
 ```
 
 ```
